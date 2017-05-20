@@ -1,0 +1,3 @@
+# Mi app Inglés
+
+Con esta app quiero aprender inglés de la forma que dada las nuevas palabras que no entienda, aparte de aprender su significado, de escuchar constantemente como se pronuncia para tenerlo en mi cabeza, que generalmente creo que cuando uno aprende una nueva palabra no sabe como se pronuncia, también esto es como un modo de entrenamiento personalizado en la que uno vaya agregando sus palabras y que no sea solo una base de datos standar.
