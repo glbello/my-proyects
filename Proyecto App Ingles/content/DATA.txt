@@ -1,0 +1,1347 @@
+Word: gaze
+Sound: [content/gaze_1.wav, content/gaze_2.wav, content/gaze_3.wav]
+Date: 2016-12-13 14:28:15.354300
+Translation: mirada
+----------------------------------------------------------------------
+Word: regardless
+Sound: [content/regardless_1.wav, content/regardless_2.wav, content/regardless_3.wav]
+Date: 2016-12-13 17:40:05.168705
+Translation: independientemente
+----------------------------------------------------------------------
+Word: aid
+Sound: [content/aid_1.wav, content/aid_2.wav, content/aid_3.wav]
+Definition: (help)
+Translation: apoyar a
+Example: It's important to aid friends when they are in need.
+Date: 2016-12-18 01:53:57.283851
+----------------------------------------------------------------------
+Word: widespread
+Sound: [content/widespread_1.wav, content/widespread_2.wav, content/widespread_3.wav]
+Date: 2016-12-08 16:41:26.829989
+Translation: extendido
+----------------------------------------------------------------------
+Word: gathered
+Sound: [content/gathered_1.wav, content/gathered_2.wav, content/gathered_3.wav]
+Date: 2016-12-11 00:37:39.691111
+Translation: reunido
+----------------------------------------------------------------------
+Word: blank
+Definition: informal (ignore, snub)
+Sound: [content/blank_1.wav, content/blank_2.wav, content/blank_3.wav]
+Date: 2016-12-18 23:46:46.896700
+Translation: ignorar
+----------------------------------------------------------------------
+Word: reap the rewards
+Sound: [content/reap the rewards_1.wav, content/reap the rewards_2.wav, content/reap the rewards_3.wav]
+Definition: figurative (benefit, profit)
+Translation: ver los frutos
+Example: Linda has made some wise investments in the stock market and now she is reaping the rewards.
+Date: 2016-12-16 19:01:49.081433
+----------------------------------------------------------------------
+Word: wares
+Sound: [content/wares_1.wav, content/wares_2.wav, content/wares_3.wav]
+Definition: (goods for sale)
+Translation: bien
+Example: Merchants set up stalls in the square to display their wares.
+Date: 2016-12-15 19:14:59.123637
+----------------------------------------------------------------------
+Word: warn
+Sound: [content/warn_1.wav, content/warn_2.wav, content/warn_3.wav]
+Date: 2016-12-11 00:51:11.332838
+Translation: advertir
+----------------------------------------------------------------------
+Word: sniff
+Sound: [content/sniff_1.wav, content/sniff_2.wav, content/sniff_3.wav]
+Definition: [tr - (smell [sth])]
+Translation: oler
+Example: he sniffed at my boots
+Date: 2016-12-18 23:04:00.302298
+----------------------------------------------------------------------
+Word: counter-operation
+Sosund: [content/counter-operation_1.wav, content/counter-operation_2.wav]
+Date: 2016-12-07 18:50:06.977518
+Translation: contra-operación
+----------------------------------------------------------------------
+Word: soil
+Sound: [content/soil_1.wav, content/soil_2.wav, content/soil_3.wav]
+Definition: (dirt, earth)
+Translation: tierra
+Example: Lucy dug over the soil in her vegetable patch to get it ready for planting.
+Date: 2016-12-18 22:41:20.074393
+----------------------------------------------------------------------
+Word: replenishment by
+Sound: [content/replenishment by_1.wav, content/replenishment by_2.wav, content/replenishment by_3.wav]
+Date: 2016-12-11 00:48:50.451688
+Translation: reabastecimiento por
+----------------------------------------------------------------------
+Word: thought
+Sound: [content/thought_1.wav, content/thought_2.wav, content/thought_3.wav]
+Date: 2016-12-11 16:28:02.330158
+Translation: pensamiento
+----------------------------------------------------------------------
+Word: recall
+Sound: [content/recall_1.wav, content/recall_2.wav, content/recall_3.wav]
+Date: 2016-12-11 01:09:51.585616
+Translation: recordar
+----------------------------------------------------------------------
+Word: awful
+Sound: [content/awful_1.wav, content/awful_2.wav, content/awful_3.wav]
+Definition: (terrible, horrid)
+Translation: horrible
+Example: There was an awful accident on the highway yesterday.
+Date: 2016-12-15 19:18:17.023295
+----------------------------------------------------------------------
+Word: upon
+Sound: [content/upon_1.wav, content/upon_2.wav, content/upon_3.wav]
+Date: 2016-12-15 04:17:23.127917
+Translation: sobre
+----------------------------------------------------------------------
+Word: regard
+Sound: [content/regard_1.wav, content/regard_2.wav, content/regard_3.wav]
+Definition: archaic (concern)
+Translation: ser consecuencia de
+Example: This letter regards your recent behaviour.
+Date: 2016-12-17 01:54:20.272965
+----------------------------------------------------------------------
+Word: sore loser
+Definition: [nformal, figurative ([sb] who dislikes not winning]
+Sound: [content/sore loser_1.wav, content/sore loser_2.wav, content/sore loser_3.wav]
+Date: 2016-12-17 20:38:27.977099
+Translation: mal perdedor
+----------------------------------------------------------------------
+Word: wound
+Sound: [content/wound_1.wav, content/wound_2.wav, content/wound_3.wav]
+Date: 2016-12-13 18:12:35.579340
+Translation: herida
+----------------------------------------------------------------------
+Word: garrison
+Sound: [content/garrison_1.wav, content/garrison_2.wav, content/garrison_3.wav]
+Definition: n - (military post)
+Translation: guarnición
+Example: The largest garrison in the country is in this town.
+Date: 2016-12-18 23:58:02.409164
+----------------------------------------------------------------------
+Word: look alike
+Sound: [content/look alike_1.wav, content/look alike_2.wav, content/look alike_3.wav]
+Date: 2016-12-07 18:57:58.523927
+Translation: parecido
+----------------------------------------------------------------------
+Word: spike
+Sound: [content/spike_1.wav, content/spike_2.wav, content/spike_3.wav]
+Definition: (peak: numbers, graph) 
+Translation: alcanzar su máximo
+Example: Electricity usage spiked just after the match, when the majority of those watching went and put the kettle on.
+Date: 2016-12-17 01:57:47.126897
+----------------------------------------------------------------------
+Word: backwater
+Sound: [content/backwater_1.wav, content/backwater_2.wav]
+Date: 2016-12-07 18:55:01.378984
+Translation: remanso
+----------------------------------------------------------------------
+Word: along with
+Sound: [content/along with_1.wav, content/along with_2.wav, content/along with_3.wav]
+Definition: (in addition to)
+Translation: junto con
+Example: along with our sincerest apologies.
+Date: 2016-12-17 01:50:09.187718
+----------------------------------------------------------------------
+Word: take out
+Sound: [content/take out_1.wav, content/take out_2.wav, content/take out_3.wav]
+Date: 2016-12-08 16:51:49.192609
+Translation: eliminar
+----------------------------------------------------------------------
+Word: spread
+Sound: [content/spread_1.wav, content/spread_2.wav, content/spread_3.wav]
+Definition: (expand)
+Translation: extenderse
+Example: Christianity gradually spread across Europe.
+Date: 2016-12-17 20:05:37.312761
+----------------------------------------------------------------------
+Word: far be it from me
+Sound: [content/far be it from me_1.wav, content/far be it from me_2.wav, content/far be it from me_3.wav]
+Date: 2016-12-18 02:06:57.264435
+Translation: no permita dios que
+----------------------------------------------------------------------
+Word: chest
+Sound: [content/chest_1.wav, content/chest_2.wav, content/chest_3.wav]
+Date: 2016-12-08 16:56:38.613061
+Translation: cofre
+----------------------------------------------------------------------
+Word: at bay
+Sound: [content/at bay_1.wav, content/at bay_2.wav, content/at bay_3.wav]
+Definition: (at a distance)
+Translation: a raya
+Example: I wasn't ready to talk to my boss, so Jan kept him at bay for as long as she could.
+Date: 2016-12-17 20:40:16.725341
+----------------------------------------------------------------------
+Word: be for us
+Sound: [content/be for us_1.wav, content/be for us_2.wav, content/be for us_3.wav]
+Date: 2016-12-08 16:53:17.898147
+Translation: sea para nosotros
+----------------------------------------------------------------------
+Word: become bold
+Sound: [content/become bold_1.wav, content/become bold_2.wav, content/become bold_3.wav]
+Date: 2016-12-07 19:44:53.719574
+Translation: ser audaz
+----------------------------------------------------------------------
+Word: reaver
+Sound: [content/reaver_1.wav, content/reaver_2.wav, content/reaver_3.wav]
+Date: 2016-12-12 00:44:27.276978
+Translation: saqueador
+----------------------------------------------------------------------
+Word: crafting
+Sound: [content/crafting_1.wav, content/crafting_2.wav, content/crafting_3.wav]
+Date: 2016-12-13 17:49:43.740554
+Translation: elaboración
+----------------------------------------------------------------------
+Word: mowing
+Sound: [content/mowing_1.wav, content/mowing_2.wav, content/mowing_3.wav]
+Date: 2016-12-08 16:34:49.204549
+Translation: siega
+----------------------------------------------------------------------
+Word: scope out
+Sound: [content/scope out_1.wav, content/scope out_2.wav, content/scope out_3.wav]
+Definition: phrasal verb - informal (investigate)
+Translation: averigua
+Example: scope out the situation
+Date: 2016-12-18 02:10:36.882816
+----------------------------------------------------------------------
+Word: delve
+Sound: [content/delve_1.wav, content/delve_2.wav, content/delve_3.wav]
+Date: 2016-12-13 14:05:25.385730
+Translation: ahondar
+----------------------------------------------------------------------
+Word: proxy
+Sound: [content/proxy_1.wav, content/proxy_2.wav, content/proxy_3.wav]
+Definition: [uthority to act for [sb] els]
+Translation: representante
+Example: Unfortunately, I cannot attend the meeting in person, but I have given Emily my proxy and she will be voting on my behalf.
+Date: 2016-12-15 04:44:05.323817
+----------------------------------------------------------------------
+Word: bothering
+Sound: [content/bothering_1.wav, content/bothering_2.wav, content/bothering_3.wav]
+Date: 2016-12-12 00:41:40.506727
+Translation: molesto
+----------------------------------------------------------------------
+Word: outage
+Sound: [content/outage_1.wav, content/outage_2.wav, content/outage_3.wav]
+Definition: (computers: loss of power)
+Translation: corte
+Example: We couldn't get the work finished on time due to a computer outage.
+Date: 2016-12-16 19:29:22.719012
+----------------------------------------------------------------------
+Word: crossroads
+Sound: [content/crossroads_1.wav, content/crossroads_2.wav, content/crossroads_3.wav]
+Date: 2016-12-11 19:50:13.331087
+Translation: encrucijada
+----------------------------------------------------------------------
+Word: squad
+Sound: [content/squad_1.wav, content/squad_2.wav, content/squad_3.wav]
+Date: 2016-12-11 00:53:23.629951
+Translation: equipo
+----------------------------------------------------------------------
+Word: regrettably
+Sound: [content/regrettably_1.wav, content/regrettably_2.wav, content/regrettably_3.wav]
+Definition: unfortunately
+Translation: lamentablemente
+Example: We regrettably inform you that the flight is delayed.
+Date: 2016-12-15 04:42:49.768496
+----------------------------------------------------------------------
+Word: piercing
+Sound: [content/piercing_1.wav, content/piercing_2.wav, content/piercing_3.wav]
+Date: 2016-12-13 14:28:56.585712
+Translation: penetrante
+----------------------------------------------------------------------
+Word: distress
+Definition: (upset, cause to suffer)
+Sound: [content/distress_1.wav, content/distress_2.wav, content/distress_3.wav]
+Date: 2016-12-15 19:33:32.305366
+Translation: angustiar
+----------------------------------------------------------------------
+Word: wood
+Sound: [content/wood_1.wav, content/wood_2.wav, content/wood_3.wav]
+Definition: n - UK(small forest)
+Translation: bosque
+Example: two baraka sholars have been braving the woodss seeking answers
+Date: 2016-12-18 02:18:19.396520
+----------------------------------------------------------------------
+Word: slip past
+Sound: [content/slip past_1.wav, content/slip past_2.wav, content/slip past_3.wav]
+Date: 2016-12-08 16:53:59.482025
+Translation: pasar desapercibido
+----------------------------------------------------------------------
+Word: outpost
+Sound: [content/outpost_1.wav, content/outpost_2.wav, content/outpost_3.wav]
+Date: 2016-12-11 00:51:50.469783
+Translation: avanzada
+----------------------------------------------------------------------
+Word: mire
+Sound: [content/mire_1.wav, content/mire_2.wav, content/mire_3.wav]
+Date: 2016-12-13 17:37:38.624160
+Translation: fango
+----------------------------------------------------------------------
+Word: sort of key
+Sound: [content/sort of key_1.wav, content/sort of key_2.wav, content/sort of key_3.wav]
+Date: 2016-12-12 01:09:48.461670
+Translation: clase de llave
+----------------------------------------------------------------------
+Word: hill
+Sound: [content/hill_1.wav, content/hill_2.wav, content/hill_3.wav]
+Date: 2016-12-08 16:48:36.874120
+Translation: colina
+----------------------------------------------------------------------
+Word: remain
+Sound: [content/remain_1.wav, content/remain_2.wav, content/remain_3.wav]
+Date: 2016-12-12 01:04:51.978011
+Translation: permanecer
+----------------------------------------------------------------------
+Word: hug
+Sound: [content/hug_1.wav, content/hug_2.wav, content/hug_3.wav]
+Date: 2016-12-08 16:33:28.559376
+Translation: abrazar
+----------------------------------------------------------------------
+Word: huntress
+Definition: n - (female hunter)
+Sound: [content/huntress_1.wav, content/huntress_2.wav, content/huntress_3.wav]
+Date: 2016-12-18 02:03:30.613045
+Translation: cazadora
+----------------------------------------------------------------------
+Word: survey
+Sound: [content/survey_1.wav, content/survey_2.wav, content/survey_3.wav]
+Definition: measure for mapping
+Translation: medir
+Example: They surveyed the property to get the map drawn right.
+Date: 2016-12-15 18:18:21.636030
+----------------------------------------------------------------------
+Word: patrol
+Sound: [content/patrol_1.wav, content/patrol_2.wav, content/patrol_3.wav]
+Date: 2016-12-08 16:50:27.449198
+Translation: patrulla
+----------------------------------------------------------------------
+Word: basilisk
+Sound: [content/basilisk_1.wav, content/basilisk_2.wav, content/basilisk_3.wav]
+Date: 2016-12-13 14:18:39.887495
+Translation: basilisco
+----------------------------------------------------------------------
+Word: concerned
+Sound: [content/concerned_1.wav, content/concerned_2.wav, content/concerned_3.wav]
+Definition: adj - (worried)
+Translation: preocupado
+Example: The concerned parent talked to the teacher.
+Date: 2016-12-18 22:54:37.324089
+----------------------------------------------------------------------
+Word: wander
+Sound: [content/wander_1.wav, content/wander_2.wav, content/wander_3.wav]
+Definition: (stroll)
+Translation: deambular
+Example: Adam wandered along the beach.
+Date: 2016-12-15 18:24:53.961915
+----------------------------------------------------------------------
+Word: sorcerer
+Sound: [content/sorcerer_1.wav, content/sorcerer_2.wav, content/sorcerer_3.wav]
+Date: 2016-12-12 00:43:38.960127
+Translation: hechicero
+----------------------------------------------------------------------
+Word: sickly
+Sound: [content/sickly_1.wav, content/sickly_2.wav, content/sickly_3.wav]
+Definition: adj - (prone to illness)
+Translation: enfermizo
+Example: Leah was a sickly child, but now she is able to run marathons.
+Date: 2016-12-18 22:39:20.455219
+----------------------------------------------------------------------
+Word: gear
+Sound: [content/gear_1.wav, content/gear_2.wav, content/gear_3.wav]
+Date: 2016-12-13 17:45:43.037664
+Translation: engranaje
+----------------------------------------------------------------------
+Word: heal
+Sound: [content/heal_1.wav, content/heal_2.wav]
+Date: 2016-12-07 18:44:37.441613
+Translation: sanar
+----------------------------------------------------------------------
+Word: priestess
+Sound: [content/priestess_1.wav, content/priestess_2.wav, content/priestess_3.wav]
+Date: 2016-12-12 00:42:37.721170
+Translation: sacerdotisa
+----------------------------------------------------------------------
+Word: request
+Sound: [content/request_1.wav, content/request_2.wav, content/request_3.wav]
+Date: 2016-12-12 00:03:04.736085
+Translation: solicitud
+----------------------------------------------------------------------
+Word: brief
+Sound: [content/brief_1.wav, content/brief_2.wav, content/brief_3.wav]
+Date: 2016-12-13 14:07:08.156770
+Translation: breve
+----------------------------------------------------------------------
+Word: goods
+Sound: [content/goods_1.wav, content/goods_2.wav, content/goods_3.wav]
+Date: 2016-12-11 00:49:50.507313
+Translation: bienes
+----------------------------------------------------------------------
+Word: berserk
+Sound: [content/berserk_1.wav, content/berserk_2.wav, content/berserk_3.wav]
+Definition: (deranged, frenzied)
+Translation: frenético
+Example: A berserk driver rammed his car into a storefront.
+Date: 2016-12-17 20:34:08.438580
+----------------------------------------------------------------------
+Word: engrave
+Sound: [content/engrave_1.wav, content/engrave_2.wav, content/engrave_3.wav]
+Definition: (carve, etch)
+Translation: grabar
+Example: Ronald is learning how to engrave metal.
+Date: 2016-12-16 02:47:34.841467
+----------------------------------------------------------------------
+Word: made reaching
+Sound: [content/made reaching_1.wav, content/made reaching_2.wav, content/made reaching_3.wav]
+Date: 2016-12-15 05:08:37.822555
+Translation: alcanzado
+----------------------------------------------------------------------
+Word: weapon imbued
+Sound: [content/weapon imbued_1.wav, content/weapon imbued_2.wav, content/weapon imbued_3.wav]
+Date: 2016-12-08 16:45:11.461070
+Translation: arma imbuida
+----------------------------------------------------------------------
+Word: average brokered sale
+Sound: [content/average brokered sale_1.wav, content/average brokered sale_2.wav, content/average brokered sale_3.wav]
+Date: 2016-12-11 00:39:49.424580
+Translation: promedio de la venta intermediada
+----------------------------------------------------------------------
+Word: throughout
+Sound: [content/throughout_1.wav, content/throughout_2.wav, content/throughout_3.wav]
+Date: 2016-12-07 18:51:42.661545
+Translation: en todo
+----------------------------------------------------------------------
+Word: witnessed
+Sound: [content/witnessed_1.wav, content/witnessed_2.wav, content/witnessed_3.wav]
+Date: 2016-12-12 00:40:40.291054
+Translation: presenciado
+----------------------------------------------------------------------
+Word: schedule
+Sound: [content/schedule_1.wav, content/schedule_2.wav, content/schedule_3.wav]
+Definition: (timetable)
+Translation: horario
+Example: The trains are running on schedule.
+Date: 2016-12-17 01:43:34.419233
+----------------------------------------------------------------------
+Word: menace
+Sound: [content/menace_1.wav, content/menace_2.wav, content/menace_3.wav]
+Date: 2016-12-07 19:46:38.464412
+Translation: amenaza
+----------------------------------------------------------------------
+Word: to square
+Sound: [content/to square_1.wav, content/to square_2.wav, content/to square_3.wav]
+Date: 2016-12-12 00:15:52.386355
+Translation: cuadrar
+----------------------------------------------------------------------
+Word: up to
+Sound: [content/up to_1.wav, content/up to_2.wav, content/up to_3.wav]
+Definition: [[sb]'s choice]
+Translation: depender de
+Example: I don't care where we eat - it's up to you.
+Date: 2016-12-18 01:43:19.544369
+----------------------------------------------------------------------
+Word: capability
+Sound: [content/capability_1.wav, content/capability_2.wav, content/capability_3.wav]
+Date: 2016-12-07 19:42:46.204173
+Translation: capacidad
+----------------------------------------------------------------------
+Word: crawl
+Sound: [content/crawl_1.wav, content/crawl_2.wav, content/crawl_3.wav]
+Date: 2016-12-13 14:20:59.989386
+Translation: gatear
+----------------------------------------------------------------------
+Word: among
+Sound: [content/among_1.wav, content/among_2.wav, content/among_3.wav]
+Definition: in the midst of
+Translation: entre
+Example: Josiah's farm is situated among the cornfields of eastern Kansas.
+Date: 2016-12-15 18:49:51.336200
+----------------------------------------------------------------------
+Word: cast
+Sound: [content/cast_1.wav, content/cast_2.wav, content/cast_3.wav]
+Definition: throw, fling
+Translation: lanzar
+Example: He cast the net over a large area.
+Date: 2016-12-15 03:52:52.932525
+----------------------------------------------------------------------
+Word: shipment
+Sound: [content/shipment_1.wav, content/shipment_2.wav, content/shipment_3.wav]
+Date: 2016-12-15 05:09:43.873461
+Translation: envío
+----------------------------------------------------------------------
+Word: material spun
+Sound: [content/material spun_1.wav, content/material spun_2.wav, content/material spun_3.wav]
+Date: 2016-12-11 00:38:56.361227
+Translation: material hilado
+----------------------------------------------------------------------
+Word: most
+Sound: [content/most_1.wav, content/most_2.wav, content/most_3.wav]
+Definition: (almost all)
+Translation: la mayoría
+Example: Most flowers are pretty.
+Date: 2016-12-15 19:22:36.251793
+----------------------------------------------------------------------
+Word: expect
+Sound: [content/expect_1.wav, content/expect_2.wav, content/expect_3.wav]
+Date: 2016-12-11 00:52:44.249801
+Translation: esperar
+----------------------------------------------------------------------
+Word: chase off
+Sound: [content/chase off_1.wav, content/chase off_2.wav, content/chase off_3.wav]
+Definition: Force a person to leave or go away
+Translation: ahuyentar
+Example: The dog CHASED he postal worker OFF.
+Date: 2016-12-16 02:39:12.812564
+----------------------------------------------------------------------
+Word: brave
+Sound: [content/brave_1.wav, content/brave_2.wav, content/brave_3.wav]
+Definition: vrt - (defy)
+Translation: desafiar
+Example: The soldier braved the odds and managed to escape injury.
+Date: 2016-12-18 02:19:02.321643
+----------------------------------------------------------------------
+Word: building
+Sound: [content/building_1.wav, content/building_2.wav, content/building_3.wav]
+Date: 2016-12-07 19:54:15.274133
+Translation: edificio
+----------------------------------------------------------------------
+Word: displayed
+Sound: [content/displayed_1.wav, content/displayed_2.wav, content/displayed_3.wav]
+Date: 2016-12-13 17:56:28.337133
+Translation: desplegado
+----------------------------------------------------------------------
+Word: this token of
+Sound: [content/this token of_1.wav, content/this token of_2.wav, content/this token of_3.wav]
+Date: 2016-12-11 00:50:43.979000
+Translation: esta muestra de
+----------------------------------------------------------------------
+Word: screen
+Sound: [content/screen_1.wav, content/screen_2.wav, content/screen_3.wav]
+Definition: n - (shield against wind)
+Translation: proteger
+Example: He screened his face from the wind with his hands.
+Date: 2016-12-18 22:46:35.363064
+----------------------------------------------------------------------
+Word: foe
+Sound: [content/foe_1.wav, content/foe_2.wav, content/foe_3.wav]
+Date: 2016-12-13 17:55:42.460227
+Translation: enemigo
+----------------------------------------------------------------------
+Word: treasure
+Sound: [content/treasure_1.wav, content/treasure_2.wav, content/treasure_3.wav]
+Date: 2016-12-08 16:36:55.059182
+Translation: tesoro
+----------------------------------------------------------------------
+Word: fire
+Sound: [content/fire_1.wav, content/fire_2.wav, content/fire_3.wav]
+Definition: gun: shoot
+Translation: disparar
+Example: They fired their guns.
+Date: 2016-12-15 03:49:49.226993
+----------------------------------------------------------------------
+Word: bind on equip
+Sound: [content/bind on equip_1.wav, content/bind on equip_2.wav, content/bind on equip_3.wav]
+Date: 2016-12-11 00:45:10.197329
+Translation: Enlazar en equipo
+----------------------------------------------------------------------
+Word: deserve
+Sound: [content/deserve_1.wav, content/deserve_2.wav, content/deserve_3.wav]
+Date: 2016-12-13 20:18:48.593542
+Translation: merecer
+----------------------------------------------------------------------
+Word: superior bow
+Sound: [content/superior bow_1.wav, content/superior bow_2.wav, content/superior bow_3.wav]
+Date: 2016-12-11 00:45:55.086744
+Translation: Arco superior
+----------------------------------------------------------------------
+Word: jealous
+Sound: [content/jealous_1.wav, content/jealous_2.wav, content/jealous_3.wav]
+Definition: [dj - (resentful: of [sb]]
+Translation: celoso
+Example: He was jealous of his brother, who was smarter and better looking than him.
+Date: 2016-12-18 23:12:08.778901
+----------------------------------------------------------------------
+Word: disguised
+Sound: [content/disguised_1.wav, content/disguised_2.wav, content/disguised_3.wav]
+Date: 2016-12-11 01:10:21.461620
+Translation: disfrazado
+----------------------------------------------------------------------
+Word: trifling
+Sound: [content/trifling_1.wav, content/trifling_2.wav, content/trifling_3.wav]
+Date: 2016-12-07 19:53:38.206546
+Translation: insignificante
+----------------------------------------------------------------------
+Word: seek
+Sound: [content/seek_1.wav, content/seek_2.wav, content/seek_3.wav]
+Definition: [look, search for [sth], [sb]]
+Translation: buscar
+Example: The detective is seeking some clues to the crime.
+Date: 2016-12-18 02:19:38.157464
+----------------------------------------------------------------------
+Word: wounded soldier
+Sound: [content/wounded soldier_1.wav, content/wounded soldier_2.wav, content/wounded soldier_3.wav]
+Date: 2016-12-07 18:48:36.996836
+Translation: soldado herido
+----------------------------------------------------------------------
+Word: peg
+Sound: [content/peg_1.wav, content/peg_2.wav, content/peg_3.wav]
+Definition: n - (hook for coat, etc.)
+Translation: clavija
+Example: Come in; put your coat on that peg there.
+Date: 2016-12-18 23:18:28.616014
+----------------------------------------------------------------------
+Word: archer
+Sound: [content/archer_1.wav, content/archer_2.wav, content/archer_3.wav]
+Date: 2016-12-07 19:52:55.669166
+Translation: arquero
+----------------------------------------------------------------------
+Word: missing
+Sound: [content/missing_1.wav, content/missing_2.wav, content/missing_3.wav]
+Date: 2016-12-08 16:38:48.367565
+Translation: desaparecido
+----------------------------------------------------------------------
+Word: wandering
+Sound: [content/wandering_1.wav, content/wandering_2.wav, content/wandering_3.wav]
+Date: 2016-12-11 01:11:03.142805
+Translation: ambulante
+----------------------------------------------------------------------
+Word: settler
+Sound: [content/settler_1.wav, content/settler_2.wav]
+Date: 2016-12-07 18:57:15.410376
+Translation: colono
+----------------------------------------------------------------------
+Word: withdraw
+Sound: [content/withdraw_1.wav, content/withdraw_2.wav, content/withdraw_3.wav]
+Date: 2016-12-13 19:03:49.225889
+Translation: retirar
+----------------------------------------------------------------------
+Word: ashamed
+Sound: [content/ashamed_1.wav, content/ashamed_2.wav, content/ashamed_3.wav]
+Definition: (feeling shame)
+Translation: avergonzado
+Example: Rachel felt ashamed and did not want to attend the party.
+Date: 2016-12-18 23:48:13.329722
+----------------------------------------------------------------------
+Word: remaining
+Sound: [content/remaining_1.wav, content/remaining_2.wav, content/remaining_3.wav]
+Date: 2016-12-12 00:01:40.266711
+Translation: restante
+----------------------------------------------------------------------
+Word: goddess's power
+Sound: [content/goddess's power_1.wav, content/goddess's power_2.wav, content/goddess's power_3.wav]
+Date: 2016-12-08 16:46:09.020447
+Translation: poder de la diosa
+----------------------------------------------------------------------
+Word: raw recruits
+Sound: [content/raw recruits_1.wav, content/raw recruits_2.wav]
+Date: 2016-12-07 19:50:42.968485
+Translation: recluta crudo
+----------------------------------------------------------------------
+Word: assembly
+Sound: [content/assembly_1.wav, content/assembly_2.wav, content/assembly_3.wav]
+Date: 2016-12-12 01:17:15.669138
+Translation: asamblea
+----------------------------------------------------------------------
+Word: plug away at
+Definition: informal (keep working on)
+Sound: [content/plug away at_1.wav, content/plug away at_2.wav, content/plug away at_3.wav]
+Date: 2016-12-15 18:47:31.891678
+Translation: insistir en
+----------------------------------------------------------------------
+Word: feature set
+Sound: [content/feature set_1.wav, content/feature set_2.wav, content/feature set_3.wav]
+Date: 2016-12-08 16:31:50.831143
+Translation: conjunto de características
+----------------------------------------------------------------------
+Word: feature
+Sound: [content/feature_1.wav, content/feature_2.wav, content/feature_3.wav]
+Date: 2016-12-08 16:31:05.799614
+Translation: característica
+----------------------------------------------------------------------
+Word: poison
+Sound: [content/poison_1.wav, content/poison_2.wav, content/poison_3.wav]
+Definition: (give poison to)
+Translation: envenenar
+Example: The wicked queen poisoned Snow White.
+Date: 2016-12-15 19:26:26.480513
+----------------------------------------------------------------------
+Word: dig in
+Sound: [content/dig in_1.wav, content/dig in_2.wav, content/dig in_3.wav]
+Definition: informal (start a meal) 
+Translation: atacar
+Example: My mouth watered when I smelled my mom's homemade apple pie and I was ready to dig in.
+Date: 2016-12-17 20:32:04.625705
+----------------------------------------------------------------------
+Word: payment
+Sound: [content/payment_1.wav, content/payment_2.wav, content/payment_3.wav]
+Date: 2016-12-13 17:53:44.484314
+Translation: pago
+----------------------------------------------------------------------
+Word: remarkable
+Sound: [content/remarkable_1.wav, content/remarkable_2.wav, content/remarkable_3.wav]
+Definition: adj - (notable)
+Translation: notable
+Example: you career is quite remarkable
+Date: 2016-12-18 01:58:31.690605
+----------------------------------------------------------------------
+Word: although
+Sound: [content/although_1.wav, content/although_2.wav, content/although_3.wav]
+Date: 2016-12-11 16:28:58.280570
+Translation: aunque
+----------------------------------------------------------------------
+Word: handpick
+Definition: (select personally)
+Sound: [content/handpick_1.wav, content/handpick_2.wav, content/handpick_3.wav]
+Date: 2016-12-18 01:38:55.993171
+Translation: escoger
+----------------------------------------------------------------------
+Word: through
+Sound: [content/through_1.wav, content/through_2.wav, content/through_3.wav]
+Date: 2016-12-11 16:26:13.405329
+Translation: mediante
+----------------------------------------------------------------------
+Word: judgement
+Sound: [content/judgement_1.wav, content/judgement_2.wav, content/judgement_3.wav]
+Date: 2016-12-07 18:59:42.367644
+Translation: juicio
+----------------------------------------------------------------------
+Word: behalf
+Sound: [content/behalf_1.wav, content/behalf_2.wav, content/behalf_3.wav]
+Date: 2016-12-11 00:50:16.121657
+Translation: favor
+----------------------------------------------------------------------
+Word: scrunch up
+Sound: [content/scrunch up_1.wav, content/scrunch up_2.wav, content/scrunch up_3.wav]
+Definition: vtr - (crumple)
+Translation: frotar
+Example: he scrunch up his nose
+Date: 2016-12-18 23:06:21.066165
+----------------------------------------------------------------------
+Word: stun
+Sound: [content/stun_1.wav, content/stun_2.wav, content/stun_3.wav]
+Date: 2016-12-15 04:00:11.425139
+Translation: aturdir
+----------------------------------------------------------------------
+Word: overrun
+Sound: [content/overrun_1.wav, content/overrun_2.wav, content/overrun_3.wav]
+Definition: military: enemy
+Translation: invadir
+Example: The army overran the enemy's position.
+Date: 2016-12-15 04:14:17.249083
+----------------------------------------------------------------------
+Word: damage
+Sound: [content/damage_1.wav, content/damage_2.wav, content/damage_3.wav]
+Definition: cause physical harm to
+Translation: dañar
+Example: The tree damaged the car when it fell on it.
+Date: 2016-12-15 03:51:07.579876
+----------------------------------------------------------------------
+Word: at last
+Sound: [content/at last_1.wav, content/at last_2.wav, content/at last_3.wav]
+Definition: adv - (finally)
+Translation: por fin
+Example: outside aid at last!
+Date: 2016-12-18 22:48:22.234828
+----------------------------------------------------------------------
+Word: distasteful
+Sound: [content/distasteful_1.wav, content/distasteful_2.wav, content/distasteful_3.wav]
+Definition: (unpleasant or offensive)
+Translation: desagradable
+Example: Thomas found the nude photos distasteful.
+Date: 2016-12-15 19:20:02.088331
+----------------------------------------------------------------------
+Word: stave off
+Sound: [content/stave off_1.wav, content/stave off_2.wav, content/stave off_3.wav]
+Date: 2016-12-13 14:21:41.307102
+Translation: evitar
+----------------------------------------------------------------------
+Word: crop up
+Sound: [content/crop up_1.wav, content/crop up_2.wav, content/crop up_3.wav]
+Definition: informal (appear suddenly)
+Translation: salir de la nada
+Example: Problems started cropping up when we installed the new software.
+Date: 2016-12-15 18:22:46.109414
+----------------------------------------------------------------------
+Word: plunder
+Sound: [content/plunder_1.wav, content/plunder_2.wav, content/plunder_3.wav]
+Date: 2016-12-07 19:44:11.044311
+Translation: saquear
+----------------------------------------------------------------------
+Word: accurate
+Sound: [content/accurate_1.wav, content/accurate_2.wav, content/accurate_3.wav]
+Date: 2016-12-11 01:09:21.114656
+Translation: preciso
+----------------------------------------------------------------------
+Word: bargain
+Sound: [content/bargain_1.wav, content/bargain_2.wav, content/bargain_3.wav]
+Date: 2016-12-13 17:52:52.567512
+Translation: negociar
+----------------------------------------------------------------------
+Word: raiding supply lines
+Sound: [content/raiding supply lines_1.wav, content/raiding supply lines_2.wav]
+Date: 2016-12-07 18:53:08.012412
+Translation: incursión de líneas de suministro
+----------------------------------------------------------------------
+Word: slab
+Sound: [content/slab_1.wav, content/slab_2.wav, content/slab_3.wav]
+Definition: (thick flat object)
+Translation: bloque
+Example: There was a slab of stone covering the entrance.
+Date: 2016-12-16 02:46:47.449975
+----------------------------------------------------------------------
+Word: refugee
+Sound: [content/refugee_1.wav, content/refugee_2.wav, content/refugee_3.wav]
+Date: 2016-12-07 18:56:06.682152
+Translation: refugiado
+----------------------------------------------------------------------
+Word: dominance
+Sound: [content/dominance_1.wav, content/dominance_2.wav, content/dominance_3.wav]
+Date: 2016-12-15 04:16:45.179572
+Translation: dominio
+----------------------------------------------------------------------
+Word: insanity
+Sound: [content/insanity_1.wav, content/insanity_2.wav, content/insanity_3.wav]
+Definition: n - (mental illness: madness)
+Translation: locura
+Example: There's a rumour that insanity runs in his family.
+Date: 2016-12-18 23:16:32.623897
+----------------------------------------------------------------------
+Word: brokerage
+Sound: [content/brokerage_1.wav, content/brokerage_2.wav, content/brokerage_3.wav]
+Date: 2016-12-11 01:33:31.483513
+Translation: corretaje
+----------------------------------------------------------------------
+Word: insight
+Sound: [content/insight_1.wav, content/insight_2.wav, content/insight_3.wav]
+Definition: (knowledge, understanding)
+Translation: conocimiento
+Example: Do you have any insight into the company's direction?
+Date: 2016-12-17 20:45:46.767871
+----------------------------------------------------------------------
+Word: the more of them
+Sound: [content/the more of them_1.wav, content/the more of them_2.wav, content/the more of them_3.wav]
+Date: 2016-12-08 16:52:29.178634
+Translation: más de ellos
+----------------------------------------------------------------------
+Word: shards
+Sound: [content/shards_1.wav, content/shards_2.wav, content/shards_3.wav]
+Date: 2016-12-11 01:06:24.542766
+Translation: fragmentos
+----------------------------------------------------------------------
+Word: pesky
+Sound: [content/pesky_1.wav, content/pesky_2.wav, content/pesky_3.wav]
+Definition: informal (troublesome)
+Translation: molesto
+Example: These pesky insects are ruining our picnic.
+Date: 2016-12-15 18:19:55.175112
+----------------------------------------------------------------------
+Word: skull
+Sound: [content/skull_1.wav, content/skull_2.wav, content/skull_3.wav]
+Date: 2016-12-13 17:48:18.070158
+Translation: cráneo
+----------------------------------------------------------------------
+Word: unleash
+Sound: [content/unleash_1.wav, content/unleash_2.wav, content/unleash_3.wav]
+Date: 2016-12-13 17:44:33.444512
+Translation: desatar
+----------------------------------------------------------------------
+Word: edge
+Sound: [content/edge_1.wav, content/edge_2.wav, content/edge_3.wav]
+Date: 2016-12-13 17:55:13.463938
+Translation: borde
+----------------------------------------------------------------------
+Word: eager
+Sound: [content/eager_1.wav, content/eager_2.wav, content/eager_3.wav]
+Date: 2016-12-08 16:38:00.476109
+Translation: ansioso
+----------------------------------------------------------------------
+Word: feedstock
+Sound: [content/feedstock_1.wav, content/feedstock_2.wav, content/feedstock_3.wav]
+Date: 2016-12-08 16:46:41.642768
+Translation: materia prima
+----------------------------------------------------------------------
+Word: devilish
+Sound: [content/devilish_1.wav, content/devilish_2.wav, content/devilish_3.wav]
+Date: 2016-12-08 16:30:22.312030
+Translation: diabólico
+----------------------------------------------------------------------
+Word: disturbance
+Sound: [content/disturbance_1.wav, content/disturbance_2.wav, content/disturbance_3.wav]
+Definition: (disorder)
+Translation: disturbio
+Example: Police were called to a disturbance outside the nightclub last night.
+Date: 2016-12-17 19:54:41.353254
+----------------------------------------------------------------------
+Word: foundry
+Sound: [content/foundry_1.wav, content/foundry_2.wav, content/foundry_3.wav]
+Date: 2016-12-12 01:05:45.636734
+Translation: fundición
+----------------------------------------------------------------------
+Word: modifier
+Sound: [content/modifier_1.wav, content/modifier_2.wav, content/modifier_3.wav]
+Date: 2016-12-11 00:47:52.806424
+Translation: Modificador
+----------------------------------------------------------------------
+Word: variety
+Sound: [content/variety_1.wav, content/variety_2.wav, content/variety_3.wav]
+Date: 2016-12-07 19:43:30.034053
+Translation: variedad
+----------------------------------------------------------------------
+Word: way there
+Sound: [content/way there_1.wav, content/way there_2.wav, content/way there_3.wav]
+Date: 2016-12-08 16:55:49.934885
+Translation: camino por ahí
+----------------------------------------------------------------------
+Word: weep
+Sound: [content/weep_1.wav, content/weep_2.wav, content/weep_3.wav]
+Definition: vi - (cry)
+Translation: llorar
+Example: The man was weeping in a corner of the waiting room.
+Date: 2016-12-19 00:25:54.431882
+----------------------------------------------------------------------
+Word: wave
+Sound: [content/wave_1.wav, content/wave_2.wav, content/wave_3.wav]
+Definition: vtr - (gesture: hello, goodbye)
+Translation: decir adiós con la mano
+Example: She waved goodbye to him.
+Date: 2016-12-18 23:02:39.885447
+----------------------------------------------------------------------
+Word: kneel
+Sound: [content/kneel_1.wav, content/kneel_2.wav, content/kneel_3.wav]
+Definition: (go down on knees)
+Translation: arrodillarse
+Example: Ben kneeled down and looked under the table.
+Date: 2016-12-18 02:02:40.615367
+----------------------------------------------------------------------
+Word: chief
+Sound: [content/chief_1.wav, content/chief_2.wav, content/chief_3.wav]
+Definition: (person in charge)
+Translation: líder
+Example: The chief of our department is in a meeting now.
+Date: 2016-12-16 02:43:13.349455
+----------------------------------------------------------------------
+Word: shield
+Sound: [content/shield_1.wav, content/shield_2.wav, content/shield_3.wav]
+Definition: (armour)
+Translation: escudo
+Example: The knight raised his shield to protect himself from his enemy's sword blow.
+Date: 2016-12-17 20:39:00.571626
+----------------------------------------------------------------------
+Word: drill
+Sound: [content/drill_1.wav, content/drill_2.wav, content/drill_3.wav]
+Definition: (training exercise)
+Translation: entrenamiento
+Example: The soldiers spent the afternoon doing drills.
+Date: 2016-12-15 18:44:34.403584
+----------------------------------------------------------------------
+Word: summon
+Sound: [content/summon_1.wav, content/summon_2.wav, content/summon_3.wav]
+Date: 2016-12-11 01:08:37.907819
+Translation: convocar
+----------------------------------------------------------------------
+Word: clear out
+Sound: [content/clear out_1.wav, content/clear out_2.wav, content/clear out_3.wav]
+Date: 2016-12-13 14:10:01.296085
+Translation: aclarar
+----------------------------------------------------------------------
+Word: withstand
+Sound: [content/withstand_1.wav, content/withstand_2.wav, content/withstand_3.wav]
+Date: 2016-12-07 19:48:47.198814
+Translation: resistir a
+----------------------------------------------------------------------
+Word: some gave all
+Sound: [content/some gave all_1.wav, content/some gave all_2.wav, content/some gave all_3.wav]
+Date: 2016-12-13 14:03:20.574269
+Translation: algunos dieron todo
+----------------------------------------------------------------------
+Word: vortex
+Sound: [content/vortex_1.wav, content/vortex_2.wav, content/vortex_3.wav]
+Date: 2016-12-11 01:05:32.693747
+Translation: vórtice
+----------------------------------------------------------------------
+Word: threshold
+Sound: [content/threshold_1.wav, content/threshold_2.wav, content/threshold_3.wav]
+Definition: figurative (limit)
+Translation: umbral
+Example: The sounds didn't reach the threshold of audibility.
+Date: 2016-12-17 02:05:06.239607
+----------------------------------------------------------------------
+Word: development
+Sound: [content/development_1.wav, content/development_2.wav, content/development_3.wav]
+Date: 2016-12-08 16:40:53.153320
+Translation: desarrollo
+----------------------------------------------------------------------
+Word: scatter
+Sound: [content/scatter_1.wav, content/scatter_2.wav, content/scatter_3.wav]
+Date: 2016-12-12 00:15:02.056274
+Translation: dispersión
+----------------------------------------------------------------------
+Word: sell
+Sound: [content/sell_1.wav, content/sell_2.wav, content/sell_3.wav]
+Definition: (vend)
+Translation: vender
+Example: He sells newspapers for 50 cents each.
+Date: 2016-12-15 19:13:46.020830
+----------------------------------------------------------------------
+Word: spurn
+Sound: [content/spurn_1.wav, content/spurn_2.wav, content/spurn_3.wav]
+Definition: [reject [sb]]
+Translation: rechazar
+Example: Kate spurned Dan's romantic propositions.
+Date: 2016-12-18 01:56:03.420919
+----------------------------------------------------------------------
+Word: troubled
+Sound: [content/troubled_1.wav, content/troubled_2.wav, content/troubled_3.wav]
+Date: 2016-12-08 16:40:12.995862
+Translation: preocupado
+----------------------------------------------------------------------
+Word: shrub
+Sound: [content/shrub_1.wav, content/shrub_2.wav, content/shrub_3.wav]
+Definition: n - (bush)
+Translation: arbusto
+Example: Richard planted a shrub in his garden.
+Date: 2016-12-18 22:42:46.974694
+----------------------------------------------------------------------
+Word: swamp
+Sound: [content/swamp_1.wav, content/swamp_2.wav, content/swamp_3.wav]
+Definition: (wetlands)
+Translation: pantano
+Example: Alligators live in the swamp.
+Date: 2016-12-16 02:33:47.773886
+----------------------------------------------------------------------
+Word: dull
+Sound: [content/dull_1.wav, content/dull_2.wav, content/dull_3.wav]
+Date: 2016-12-08 16:39:34.562027
+Translation: aburrido
+----------------------------------------------------------------------
+Word: tear apart
+Definition: rip to pieces
+Sound: [content/tear apart_1.wav, content/tear apart_2.wav, content/tear apart_3.wav]
+Date: 2016-12-15 18:52:01.630930
+Translation: destruir
+----------------------------------------------------------------------
+Word: crop
+Sound: [content/crop_1.wav, content/crop_2.wav, content/crop_3.wav]
+Definition: (farming)
+Translation: cultivo
+Example: Grandmother's farm always bore crops of corn and tomatoes.
+Date: 2016-12-18 22:37:58.534971
+----------------------------------------------------------------------
+Word: draw up
+Sound: [content/draw up_1.wav, content/draw up_2.wav, content/draw up_3.wav]
+Definition: phrasal verb - (draft, plan out)
+Translation: redactar
+Example: It is desirable that any important legal documents be drawn up by a qualified solicitor.
+Date: 2016-12-18 02:21:42.394263
+----------------------------------------------------------------------
+Word: to a standstill
+Sound: [content/to a standstill_1.wav, content/to a standstill_2.wav, content/to a standstill_3.wav]
+Date: 2016-12-07 19:45:54.681573
+Translation: pararse
+----------------------------------------------------------------------
+Word: nuisance
+Sound: [content/nuisance_1.wav, content/nuisance_2.wav, content/nuisance_3.wav]
+Date: 2016-12-08 16:47:16.206115
+Translation: molestia
+----------------------------------------------------------------------
+Word: hillside
+Sound: [content/hillside_1.wav, content/hillside_2.wav, content/hillside_3.wav]
+Date: 2016-12-08 16:49:08.945190
+Translation: ladera
+----------------------------------------------------------------------
+Word: forge
+Sound: [content/forge_1.wav, content/forge_2.wav, content/forge_3.wav]
+Date: 2016-12-12 00:47:39.010265
+Translation: forjar
+----------------------------------------------------------------------
+Word: dungeon
+Sound: [content/dungeon_1.wav, content/dungeon_2.wav, content/dungeon_3.wav]
+Date: 2016-12-12 00:00:44.598898
+Translation: calabozo
+----------------------------------------------------------------------
+Word: unto
+Sound: [content/unto_1.wav, content/unto_2.wav, content/unto_3.wav]
+Date: 2016-12-13 17:40:26.775862
+Translation: hasta
+----------------------------------------------------------------------
+Word: strive
+Sound: [content/strive_1.wav, content/strive_2.wav, content/strive_3.wav]
+Definition: (exert oneself)
+Translation: esforzarse
+Example: Strive for success.
+Date: 2016-12-17 01:47:28.618070
+----------------------------------------------------------------------
+Word: can spare
+Sound: [content/can spare_1.wav, content/can spare_2.wav, content/can spare_3.wav]
+Date: 2016-12-11 00:52:13.257858
+Translation: puede gastar
+----------------------------------------------------------------------
+Word: be that as it may
+Sound: [content/be that as it may_1.wav, content/be that as it may_2.wav, content/be that as it may_3.wav]
+Date: 2016-12-15 19:30:39.352498
+Translation: sea como fuese
+----------------------------------------------------------------------
+Word: soulbound
+Sound: [content/soulbound_1.wav, content/soulbound_2.wav, content/soulbound_3.wav]
+Date: 2016-12-11 00:46:33.569272
+Translation: Alma atada
+----------------------------------------------------------------------
+Word: outside aid
+Sound: [content/outside aid_1.wav, content/outside aid_2.wav, content/outside aid_3.wav]
+Date: 2016-12-18 22:49:53.368428
+Translation: ayuda externa
+----------------------------------------------------------------------
+Word: like so
+Sound: [content/like so_1.wav, content/like so_2.wav, content/like so_3.wav]
+Date: 2016-12-07 18:58:42.119119
+Translation: al igual que
+----------------------------------------------------------------------
+Word: briefling
+Sound: [content/briefling_1.wav, content/briefling_2.wav, content/briefling_3.wav]
+Date: 2016-12-13 17:41:33.510545
+Translation: charla
+----------------------------------------------------------------------
+Word: slaughter
+Sound: [content/slaughter_1.wav, content/slaughter_2.wav, content/slaughter_3.wav]
+Definition: (kill many)
+Translation: masacrar
+Example: I've seen them slaughter travelers
+Date: 2016-12-18 22:58:17.510485
+----------------------------------------------------------------------
+Word: thanked
+Sound: [content/thanked_1.wav, content/thanked_2.wav, content/thanked_3.wav]
+Date: 2016-12-08 16:34:02.994784
+Translation: agradecido
+----------------------------------------------------------------------
+Word: reagent
+Sound: [content/reagent_1.wav, content/reagent_2.wav, content/reagent_3.wav]
+Date: 2016-12-13 17:50:41.448841
+Translation: reactivo
+----------------------------------------------------------------------
+Word: cliff
+Sound: [content/cliff_1.wav, content/cliff_2.wav, content/cliff_3.wav]
+Definition: n - (geography: steep rock face) 
+Translation: acantilado
+Example: A beautiful sunset could be seen from the cliff over the sea.
+Date: 2016-12-18 23:15:11.762575
+----------------------------------------------------------------------
+Word: envy
+Sound: [content/envy_1.wav, content/envy_2.wav, content/envy_3.wav]
+Definition: (jealousy, resentment)
+Translation: envidia
+Example: these boots are made for envy
+Date: 2016-12-18 23:08:06.823569
+----------------------------------------------------------------------
+Word: foraging parties
+Sound: [content/foraging parties_1.wav, content/foraging parties_2.wav]
+Date: 2016-12-07 18:39:10.683651
+Translation: partes forrajeras
+----------------------------------------------------------------------
+Word: issue
+Sound: [content/issue_1.wav, content/issue_2.wav, content/issue_3.wav]
+Definition: [give, send [sb] [sth]]
+Translation: dar
+Example: The library issued me with a new card.
+Date: 2016-12-18 01:51:55.769568
+----------------------------------------------------------------------
+Word: brawler
+Sound: [content/brawler_1.wav, content/brawler_2.wav, content/brawler_3.wav]
+Date: 2016-12-11 00:44:13.744075
+Translation: alborotador
+----------------------------------------------------------------------
+Word: entrance
+Sound: [content/entrance_1.wav, content/entrance_2.wav, content/entrance_3.wav]
+Date: 2016-12-11 00:53:42.559830
+Translation: entrada
+----------------------------------------------------------------------
+Word: inbound
+Sound: [content/inbound_1.wav, content/inbound_2.wav, content/inbound_3.wav]
+Definition: (data, call: incoming)
+Translation: de entrada
+Example: The inbound data is queued up and will process overnight.
+Date: 2016-12-17 01:59:17.935168
+----------------------------------------------------------------------
+Word: head up
+Sound: [content/head up_1.wav, content/head up_2.wav, content/head up_3.wav]
+Date: 2016-12-08 16:47:59.365097
+Translation: dirigir
+----------------------------------------------------------------------
+Word: selfish
+Sound: [content/selfish_1.wav, content/selfish_2.wav, content/selfish_3.wav]
+Date: 2016-12-12 01:39:20.962711
+Translation: egoísta
+----------------------------------------------------------------------
+Word: it's worth playing
+Sound: [content/it's worth playing_1.wav, content/it's worth playing_2.wav, content/it's worth playing_3.wav]
+Date: 2016-12-07 19:38:25.644258
+Translation: vale la pena jugar
+----------------------------------------------------------------------
+Word: to parse
+Sound: [content/to parse_1.wav, content/to parse_2.wav]
+Date: 2016-12-07 19:51:49.957507
+Translation: analizar
+----------------------------------------------------------------------
+Word: take a chance
+Sound: [content/take a chance_1.wav, content/take a chance_2.wav, content/take a chance_3.wav]
+Definition: risk
+Translation: correr el riesgo
+Example: but take no chances
+Date: 2016-12-17 20:02:20.977000
+----------------------------------------------------------------------
+Word: stagger
+Sound: [content/stagger_1.wav, content/stagger_2.wav, content/stagger_3.wav]
+Definition: walk unsteadily
+Translation: tambalearse
+Example: The young man staggered as he left the bar.
+Date: 2016-12-15 03:56:10.210464
+----------------------------------------------------------------------
+Word: overdue
+Sound: [content/overdue_1.wav, content/overdue_2.wav, content/overdue_3.wav]
+Date: 2016-12-11 01:06:51.780204
+Translation: atrasado
+----------------------------------------------------------------------
+Word: strut
+Sound: [content/strut_1.wav, content/strut_2.wav, content/strut_3.wav]
+Definition: vi - (walk proudly)
+Translation: pavonear
+Example: The young man strutted along the street.
+Date: 2016-12-18 23:11:04.238140
+----------------------------------------------------------------------
+Word: be stored
+Sound: [content/be stored_1.wav, content/be stored_2.wav, content/be stored_3.wav]
+Date: 2016-12-08 16:42:45.688776
+Translation: ser almacenado
+----------------------------------------------------------------------
+Word: thick
+Sound: [content/thick_1.wav, content/thick_2.wav, content/thick_3.wav]
+Date: 2016-12-07 18:54:18.482148
+Translation: grueso
+----------------------------------------------------------------------
+Word: dripping
+Sound: [content/dripping_1.wav, content/dripping_2.wav, content/dripping_3.wav]
+Date: 2016-12-12 00:51:38.656526
+Translation: goteo
+----------------------------------------------------------------------
+Word: irretrievably
+Definition: adv - (permanently)
+Sound: [content/irretrievably_1.wav, content/irretrievably_2.wav, content/irretrievably_3.wav]
+Date: 2016-12-19 00:11:05.235138
+Translation: irreparablemente
+----------------------------------------------------------------------
+Word: blazing
+Sound: [content/blazing_1.wav, content/blazing_2.wav, content/blazing_3.wav]
+Date: 2016-12-13 14:23:47.101355
+Translation: flameante
+----------------------------------------------------------------------
+Word: blasted
+Sound: [content/blasted_1.wav, content/blasted_2.wav, content/blasted_3.wav]
+Date: 2016-12-08 16:51:00.980970
+Translation: maldito
+----------------------------------------------------------------------
+Word: handful
+Sound: [content/handful_1.wav, content/handful_2.wav, content/handful_3.wav]
+Date: 2016-12-15 04:15:24.999109
+Translation: puñado
+----------------------------------------------------------------------
+Word: replenish
+Sound: [content/replenish_1.wav, content/replenish_2.wav, content/replenish_3.wav]
+Date: 2016-12-11 00:49:18.613393
+Translation: reponer
+----------------------------------------------------------------------
+Word: perk
+Sound: [content/perk_1.wav, content/perk_2.wav, content/perk_3.wav]
+Definition: colloquial (perquisite: benefit of a job)
+Translation: beneficio
+Example: Peter's salary isn't very high, but his job comes with great perks like health insurance and a staff discount.
+Date: 2016-12-17 01:49:02.632510
+----------------------------------------------------------------------
+Word: curse
+Sound: [content/curse_1.wav, content/curse_2.wav, content/curse_3.wav]
+Definition: n - (evil spell)
+Translation: maldición
+Example: In the end, it turns out that the ogre was under a curse.
+Date: 2016-12-18 02:13:13.305195
+----------------------------------------------------------------------
+Word: mass
+Sound: [content/mass_1.wav, content/mass_2.wav, content/mass_3.wav]
+Definition: (people, crowd: gather) 
+Translation: juntar
+Example: People started to mass at the city hall in the early morning.
+Date: 2016-12-18 01:37:03.801614
+----------------------------------------------------------------------
+Word: subtle
+Definition: adj - (nearly undetectable)
+Sound: [content/subtle_1.wav, content/subtle_2.wav, content/subtle_3.wav]
+Date: 2016-12-18 02:07:38.541002
+Translation: sutil
+----------------------------------------------------------------------
+Word: on spot
+Sound: [content/on spot_1.wav, content/on spot_2.wav, content/on spot_3.wav]
+Date: 2016-12-13 14:27:23.745596
+Translation: en el lugar
+----------------------------------------------------------------------
+Word: net
+Sound: [content/net_1.wav, content/net_2.wav, content/net_3.wav]
+Definition: to catch things
+Translation: red
+Example: The fisherman caught a few fish in his net.
+Date: 2016-12-15 03:53:53.630622
+----------------------------------------------------------------------
+Word: gifted
+Sound: [content/gifted_1.wav, content/gifted_2.wav, content/gifted_3.wav]
+Date: 2016-12-08 16:36:15.537848
+Translation: dotado
+----------------------------------------------------------------------
+Word: gasp
+Sound: [content/gasp_1.wav, content/gasp_2.wav, content/gasp_3.wav]
+Example: Sarah was weak from her illness, but she managed to gasp her last wishes to her son.
+Date: 2016-12-17 01:45:34.843390
+Translation: suspirar
+----------------------------------------------------------------------
+Word: uncover
+Definition: by investigation
+Sound: [content/uncover_1.wav, content/uncover_2.wav, content/uncover_3.wav]
+Date: 2016-12-15 04:41:03.805715
+Translation: descubrir
+----------------------------------------------------------------------
+Word: wail
+Sound: [content/wail_1.wav, content/wail_2.wav, content/wail_3.wav]
+Definition: cry mournfully
+Translation: llorar
+Example: Women wailed and beat their breasts at the funeral.
+Date: 2016-12-15 18:13:18.253943
+----------------------------------------------------------------------
+Word: ever become
+Sound: [content/ever become_1.wav, content/ever become_2.wav, content/ever become_3.wav]
+Date: 2016-12-15 19:29:01.780041
+Translation: llegar a ser
+----------------------------------------------------------------------
+Word: east there
+Sound: [content/east there_1.wav, content/east there_2.wav, content/east there_3.wav]
+Date: 2016-12-08 16:49:49.504291
+Translation: al este de allí
+----------------------------------------------------------------------
+Word: merchant
+Sound: [content/merchant_1.wav, content/merchant_2.wav, content/merchant_3.wav]
+Date: 2016-12-11 00:36:38.567343
+Translation: comerciante
+----------------------------------------------------------------------
+Word: retrieve
+Sound: [content/retrieve_1.wav, content/retrieve_2.wav, content/retrieve_3.wav]
+Definition: vtr - (get, find: physical object) 
+Translation: recuperar
+Example: 
+Date: 2016-12-19 17:08:32.843296
+----------------------------------------------------------------------
+Word: throw
+Sound: [content/throw_1.wav, content/throw_2.wav, content/throw_3.wav]
+Date: 2016-12-11 16:26:49.851130
+Translation: lanzar
+----------------------------------------------------------------------
+Word: are laying
+Sound: [content/are laying_1.wav, content/are laying_2.wav, content/are laying_3.wav]
+Date: 2016-12-13 14:19:35.558787
+Translation: están poniendo
+----------------------------------------------------------------------

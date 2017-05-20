@@ -1,0 +1,318 @@
+Word: remarkable
+Sound: [content/remarkable_1.wav, content/remarkable_2.wav, content/remarkable_3.wav]
+Definition: adj - (notable)
+Translation: notable
+Example: you career is quite remarkable
+Date: 2016-12-18 01:58:31.690605
+----------------------------------------------------------------------
+Word: huntress
+Definition: n - (female hunter)
+Sound: [content/huntress_1.wav, content/huntress_2.wav, content/huntress_3.wav]
+Date: 2016-12-18 02:03:30.613045
+Translation: cazadora
+----------------------------------------------------------------------
+Word: spurn
+Sound: [content/spurn_1.wav, content/spurn_2.wav, content/spurn_3.wav]
+Definition: [reject [sb]]
+Translation: rechazar
+Example: Kate spurned Dan's romantic propositions.
+Date: 2016-12-18 01:56:03.420919
+----------------------------------------------------------------------
+Word: aid
+Sound: [content/aid_1.wav, content/aid_2.wav, content/aid_3.wav]
+Definition: (help)
+Translation: apoyar a
+Example: It's important to aid friends when they are in need.
+Date: 2016-12-18 01:53:57.283851
+----------------------------------------------------------------------
+Word: insanity
+Sound: [content/insanity_1.wav, content/insanity_2.wav, content/insanity_3.wav]
+Definition: n - (mental illness: madness)
+Translation: locura
+Example: There's a rumour that insanity runs in his family.
+Date: 2016-12-18 23:16:32.623897
+----------------------------------------------------------------------
+Word: at bay
+Sound: [content/at bay_1.wav, content/at bay_2.wav, content/at bay_3.wav]
+Definition: (at a distance)
+Translation: a raya
+Example: I wasn't ready to talk to my boss, so Jan kept him at bay for as long as she could.
+Date: 2016-12-17 20:40:16.725341
+----------------------------------------------------------------------
+Word: concerned
+Sound: [content/concerned_1.wav, content/concerned_2.wav, content/concerned_3.wav]
+Definition: adj - (worried)
+Translation: preocupado
+Example: The concerned parent talked to the teacher.
+Date: 2016-12-18 22:54:37.324089
+----------------------------------------------------------------------
+Word: weep
+Sound: [content/weep_1.wav, content/weep_2.wav, content/weep_3.wav]
+Definition: vi - (cry)
+Translation: llorar
+Example: The man was weeping in a corner of the waiting room.
+Date: 2016-12-19 00:25:54.431882
+----------------------------------------------------------------------
+Word: jealous
+Sound: [content/jealous_1.wav, content/jealous_2.wav, content/jealous_3.wav]
+Definition: [dj - (resentful: of [sb]]
+Translation: celoso
+Example: He was jealous of his brother, who was smarter and better looking than him.
+Date: 2016-12-18 23:12:08.778901
+----------------------------------------------------------------------
+Word: sickly
+Sound: [content/sickly_1.wav, content/sickly_2.wav, content/sickly_3.wav]
+Definition: adj - (prone to illness)
+Translation: enfermizo
+Example: Leah was a sickly child, but now she is able to run marathons.
+Date: 2016-12-18 22:39:20.455219
+----------------------------------------------------------------------
+Word: blank
+Definition: informal (ignore, snub)
+Sound: [content/blank_1.wav, content/blank_2.wav, content/blank_3.wav]
+Date: 2016-12-18 23:46:46.896700
+Translation: ignorar
+----------------------------------------------------------------------
+Word: peg
+Sound: [content/peg_1.wav, content/peg_2.wav, content/peg_3.wav]
+Definition: n - (hook for coat, etc.)
+Translation: clavija
+Example: Come in; put your coat on that peg there.
+Date: 2016-12-18 23:18:28.616014
+----------------------------------------------------------------------
+Word: handpick
+Definition: (select personally)
+Sound: [content/handpick_1.wav, content/handpick_2.wav, content/handpick_3.wav]
+Date: 2016-12-18 01:38:55.993171
+Translation: escoger
+----------------------------------------------------------------------
+Word: draw up
+Sound: [content/draw up_1.wav, content/draw up_2.wav, content/draw up_3.wav]
+Definition: phrasal verb - (draft, plan out)
+Translation: redactar
+Example: It is desirable that any important legal documents be drawn up by a qualified solicitor.
+Date: 2016-12-18 02:21:42.394263
+----------------------------------------------------------------------
+Word: crop
+Sound: [content/crop_1.wav, content/crop_2.wav, content/crop_3.wav]
+Definition: (farming)
+Translation: cultivo
+Example: Grandmother's farm always bore crops of corn and tomatoes.
+Date: 2016-12-18 22:37:58.534971
+----------------------------------------------------------------------
+Word: scrunch up
+Sound: [content/scrunch up_1.wav, content/scrunch up_2.wav, content/scrunch up_3.wav]
+Definition: vtr - (crumple)
+Translation: frotar
+Example: he scrunch up his nose
+Date: 2016-12-18 23:06:21.066165
+----------------------------------------------------------------------
+Word: sniff
+Sound: [content/sniff_1.wav, content/sniff_2.wav, content/sniff_3.wav]
+Definition: [tr - (smell [sth])]
+Translation: oler
+Example: he sniffed at my boots
+Date: 2016-12-18 23:04:00.302298
+----------------------------------------------------------------------
+Word: soil
+Sound: [content/soil_1.wav, content/soil_2.wav, content/soil_3.wav]
+Definition: (dirt, earth)
+Translation: tierra
+Example: Lucy dug over the soil in her vegetable patch to get it ready for planting.
+Date: 2016-12-18 22:41:20.074393
+----------------------------------------------------------------------
+Word: outside aid
+Sound: [content/outside aid_1.wav, content/outside aid_2.wav, content/outside aid_3.wav]
+Date: 2016-12-18 22:49:53.368428
+Translation: ayuda externa
+----------------------------------------------------------------------
+Word: at last
+Sound: [content/at last_1.wav, content/at last_2.wav, content/at last_3.wav]
+Definition: adv - (finally)
+Translation: por fin
+Example: outside aid at last!
+Date: 2016-12-18 22:48:22.234828
+----------------------------------------------------------------------
+Word: envy
+Sound: [content/envy_1.wav, content/envy_2.wav, content/envy_3.wav]
+Definition: (jealousy, resentment)
+Translation: envidia
+Example: these boots are made for envy
+Date: 2016-12-18 23:08:06.823569
+----------------------------------------------------------------------
+Word: cliff
+Sound: [content/cliff_1.wav, content/cliff_2.wav, content/cliff_3.wav]
+Definition: n - (geography: steep rock face) 
+Translation: acantilado
+Example: A beautiful sunset could be seen from the cliff over the sea.
+Date: 2016-12-18 23:15:11.762575
+----------------------------------------------------------------------
+Word: mass
+Sound: [content/mass_1.wav, content/mass_2.wav, content/mass_3.wav]
+Definition: (people, crowd: gather) 
+Translation: juntar
+Example: People started to mass at the city hall in the early morning.
+Date: 2016-12-18 01:37:03.801614
+----------------------------------------------------------------------
+Word: up to
+Sound: [content/up to_1.wav, content/up to_2.wav, content/up to_3.wav]
+Definition: [[sb]'s choice]
+Translation: depender de
+Example: I don't care where we eat - it's up to you.
+Date: 2016-12-18 01:43:19.544369
+----------------------------------------------------------------------
+Word: issue
+Sound: [content/issue_1.wav, content/issue_2.wav, content/issue_3.wav]
+Definition: [give, send [sb] [sth]]
+Translation: dar
+Example: The library issued me with a new card.
+Date: 2016-12-18 01:51:55.769568
+----------------------------------------------------------------------
+Word: garrison
+Sound: [content/garrison_1.wav, content/garrison_2.wav, content/garrison_3.wav]
+Definition: n - (military post)
+Translation: guarnición
+Example: The largest garrison in the country is in this town.
+Date: 2016-12-18 23:58:02.409164
+----------------------------------------------------------------------
+Word: brave
+Sound: [content/brave_1.wav, content/brave_2.wav, content/brave_3.wav]
+Definition: vrt - (defy)
+Translation: desafiar
+Example: The soldier braved the odds and managed to escape injury.
+Date: 2016-12-18 02:19:02.321643
+----------------------------------------------------------------------
+Word: insight
+Sound: [content/insight_1.wav, content/insight_2.wav, content/insight_3.wav]
+Definition: (knowledge, understanding)
+Translation: conocimiento
+Example: Do you have any insight into the company's direction?
+Date: 2016-12-17 20:45:46.767871
+----------------------------------------------------------------------
+Word: along with
+Sound: [content/along with_1.wav, content/along with_2.wav, content/along with_3.wav]
+Definition: (in addition to)
+Translation: junto con
+Example: along with our sincerest apologies.
+Date: 2016-12-17 01:50:09.187718
+----------------------------------------------------------------------
+Word: strut
+Sound: [content/strut_1.wav, content/strut_2.wav, content/strut_3.wav]
+Definition: vi - (walk proudly)
+Translation: pavonear
+Example: The young man strutted along the street.
+Date: 2016-12-18 23:11:04.238140
+----------------------------------------------------------------------
+Word: far be it from me
+Sound: [content/far be it from me_1.wav, content/far be it from me_2.wav, content/far be it from me_3.wav]
+Date: 2016-12-18 02:06:57.264435
+Translation: no permita dios que
+----------------------------------------------------------------------
+Word: screen
+Sound: [content/screen_1.wav, content/screen_2.wav, content/screen_3.wav]
+Definition: n - (shield against wind)
+Translation: proteger
+Example: He screened his face from the wind with his hands.
+Date: 2016-12-18 22:46:35.363064
+----------------------------------------------------------------------
+Word: irretrievably
+Definition: adv - (permanently)
+Sound: [content/irretrievably_1.wav, content/irretrievably_2.wav, content/irretrievably_3.wav]
+Date: 2016-12-19 00:11:05.235138
+Translation: irreparablemente
+----------------------------------------------------------------------
+Word: slaughter
+Sound: [content/slaughter_1.wav, content/slaughter_2.wav, content/slaughter_3.wav]
+Definition: (kill many)
+Translation: masacrar
+Example: I've seen them slaughter travelers
+Date: 2016-12-18 22:58:17.510485
+----------------------------------------------------------------------
+Word: curse
+Sound: [content/curse_1.wav, content/curse_2.wav, content/curse_3.wav]
+Definition: n - (evil spell)
+Translation: maldición
+Example: In the end, it turns out that the ogre was under a curse.
+Date: 2016-12-18 02:13:13.305195
+----------------------------------------------------------------------
+Word: crop up
+Sound: [content/crop up_1.wav, content/crop up_2.wav, content/crop up_3.wav]
+Definition: informal (appear suddenly)
+Translation: salir de la nada
+Example: Problems started cropping up when we installed the new software.
+Date: 2016-12-15 18:22:46.109414
+----------------------------------------------------------------------
+Word: subtle
+Definition: adj - (nearly undetectable)
+Sound: [content/subtle_1.wav, content/subtle_2.wav, content/subtle_3.wav]
+Date: 2016-12-18 02:07:38.541002
+Translation: sutil
+----------------------------------------------------------------------
+Word: scope out
+Sound: [content/scope out_1.wav, content/scope out_2.wav, content/scope out_3.wav]
+Definition: phrasal verb - informal (investigate)
+Translation: averigua
+Example: scope out the situation
+Date: 2016-12-18 02:10:36.882816
+----------------------------------------------------------------------
+Word: disguised
+Sound: [content/disguised_1.wav, content/disguised_2.wav, content/disguised_3.wav]
+Date: 2016-12-11 01:10:21.461620
+Translation: disfrazado
+----------------------------------------------------------------------
+Word: kneel
+Sound: [content/kneel_1.wav, content/kneel_2.wav, content/kneel_3.wav]
+Definition: (go down on knees)
+Translation: arrodillarse
+Example: Ben kneeled down and looked under the table.
+Date: 2016-12-18 02:02:40.615367
+----------------------------------------------------------------------
+Word: seek
+Sound: [content/seek_1.wav, content/seek_2.wav, content/seek_3.wav]
+Definition: [look, search for [sth], [sb]]
+Translation: buscar
+Example: The detective is seeking some clues to the crime.
+Date: 2016-12-18 02:19:38.157464
+----------------------------------------------------------------------
+Word: wave
+Sound: [content/wave_1.wav, content/wave_2.wav, content/wave_3.wav]
+Definition: vtr - (gesture: hello, goodbye)
+Translation: decir adiós con la mano
+Example: She waved goodbye to him.
+Date: 2016-12-18 23:02:39.885447
+----------------------------------------------------------------------
+Word: shrub
+Sound: [content/shrub_1.wav, content/shrub_2.wav, content/shrub_3.wav]
+Definition: n - (bush)
+Translation: arbusto
+Example: Richard planted a shrub in his garden.
+Date: 2016-12-18 22:42:46.974694
+----------------------------------------------------------------------
+Word: shield
+Sound: [content/shield_1.wav, content/shield_2.wav, content/shield_3.wav]
+Definition: (armour)
+Translation: escudo
+Example: The knight raised his shield to protect himself from his enemy's sword blow.
+Date: 2016-12-17 20:39:00.571626
+----------------------------------------------------------------------
+Word: wood
+Sound: [content/wood_1.wav, content/wood_2.wav, content/wood_3.wav]
+Definition: n - UK(small forest)
+Translation: bosque
+Example: two baraka sholars have been braving the woodss seeking answers
+Date: 2016-12-18 02:18:19.396520
+----------------------------------------------------------------------
+Word: retrieve
+Sound: [content/retrieve_1.wav, content/retrieve_2.wav, content/retrieve_3.wav]
+Definition: vtr - (get, find: physical object) 
+Translation: recuperar
+Example: 
+Date: 2016-12-19 17:08:32.843296
+----------------------------------------------------------------------
+Word: ashamed
+Sound: [content/ashamed_1.wav, content/ashamed_2.wav, content/ashamed_3.wav]
+Definition: (feeling shame)
+Translation: avergonzado
+Example: Rachel felt ashamed and did not want to attend the party.
+Date: 2016-12-18 23:48:13.329722
+----------------------------------------------------------------------

@@ -1,0 +1,2253 @@
+{
+   "lush": {
+      "Example": "The valley was filled with lush vegetation.",
+      "Date": "2017-01-03 00:48:07.758866",
+      "Definition": "adj - (vegetation: abundant)",
+      "Word": "lush",
+      "Sound": [
+         "content/lush_1.wav",
+         "content/lush_2.wav",
+         "content/lush_3.wav"
+      ],
+      "Translation": [
+         "frondoso",
+         "abundante",
+         "rica",
+         "exuberante"
+      ]
+   },
+   "deign to": {
+      "Example": "but I deign to accept your presence",
+      "Date": "2016-12-24 01:37:47.755119",
+      "Definition": "v expr - (condescend to do [sth])",
+      "Word": "deign to",
+      "Sound": [
+         "content/deign to_1.wav",
+         "content/deign to_2.wav",
+         "content/deign to_3.wav"
+      ],
+      "Translation": [
+         "dignarse a"
+      ]
+   },
+   "scope": {
+      "Example": "which are beyond the scope of this glossary",
+      "Date": "2017-04-15 21:55:45.317159",
+      "Definition": "n. extent",
+      "Word": "scope",
+      "Sound": [
+         "content/scope_1.wav",
+         "content/scope_2.wav",
+         "content/scope_3.wav"
+      ],
+      "Translation": [
+         "alcance"
+      ]
+   },
+   "prime": {
+      "Example": "Winter time is prime time to go monster hunting!",
+      "Date": "2017-01-03 17:50:09.209314",
+      "Definition": "adj - (best, of top quality)",
+      "Word": "prime",
+      "Sound": [
+         "content/prime_1.wav",
+         "content/prime_2.wav",
+         "content/prime_3.wav"
+      ],
+      "Translation": [
+         "excelente",
+         "supremo"
+      ]
+   },
+   "snatch": {
+      "Example": "",
+      "Date": "2016-12-29 18:29:11.369117",
+      "Definition": "(steal)",
+      "Word": "snatch",
+      "Sound": [
+         "content/snatch_1.wav",
+         "content/snatch_2.wav",
+         "content/snatch_3.wav"
+      ],
+      "Translation": [
+         "robar"
+      ]
+   },
+   "stand for": {
+      "Example": "The \"U\" in USA stands for \"united\".",
+      "Date": "2017-04-15 21:58:46.287697",
+      "Definition": "vtr phrasal verb. be short form",
+      "Word": "stand for",
+      "Sound": [
+         "content/stand for_1.wav",
+         "content/stand for_2.wav",
+         "content/stand for_3.wav"
+      ],
+      "Translation": [
+         "significar",
+         "representar"
+      ]
+   },
+   "tuning": {
+      "Example": "",
+      "Date": "2017-04-09 03:09:23.641312",
+      "Definition": "(act of tuning)",
+      "Word": "tuning",
+      "Sound": [
+         "content/tuning_1.wav",
+         "content/tuning_2.wav"
+      ],
+      "Translation": [
+         "afinaci\u00f3n"
+      ]
+   },
+   "lash out": {
+      "Example": "Joyce was stroking the cat when it suddenly lashed out.",
+      "Date": "2017-01-03 00:38:32.579287",
+      "Definition": "vi phrasal - (try to strike)",
+      "Word": "lash out",
+      "Sound": [
+         "content/lash out_1.wav",
+         "content/lash out_2.wav",
+         "content/lash out_3.wav"
+      ],
+      "Translation": [
+         "soltar patadas",
+         "soltar golpes"
+      ]
+   },
+   "handle": {
+      "Example": "Can you handle all the plates, or should I help you?",
+      "Date": "2016-12-23 01:57:08.072152",
+      "Definition": "vtr - (deal with: physically)",
+      "Word": "handle",
+      "Sound": [
+         "content/handle_1.wav",
+         "content/handle_2.wav",
+         "content/handle_3.wav"
+      ],
+      "Translation": [
+         "arreglarse",
+         "manejar",
+         "apa\u00f1arse"
+      ]
+   },
+   "thread": {
+      "Example": "Use a thread to tie the pieces together.",
+      "Date": "2017-01-07 22:10:04.325777",
+      "Definition": "n - (yarn: thin strand)",
+      "Word": "thread",
+      "Sound": [
+         "content/thread_1.wav",
+         "content/thread_2.wav",
+         "content/thread_3.wav"
+      ],
+      "Translation": [
+         "hilo"
+      ]
+   },
+   "leather": {
+      "Example": "The car seats were made with real leather.",
+      "Date": "2017-01-03 01:31:33.960355",
+      "Definition": "n - (material: animal hide)",
+      "Word": "leather",
+      "Sound": [
+         "content/leather_1.wav",
+         "content/leather_2.wav",
+         "content/leather_3.wav"
+      ],
+      "Translation": [
+         "cuero",
+         "piel"
+      ]
+   },
+   "deal in": {
+      "Example": "He made his fortune dealing in illegal weapons.",
+      "Date": "2016-12-25 19:10:47.690687",
+      "Definition": "vi + prep - (trade)",
+      "Word": "deal in",
+      "Sound": [
+         "content/deal in_1.wav",
+         "content/deal in_2.wav",
+         "content/deal in_3.wav"
+      ],
+      "Translation": [
+         "traficar"
+      ]
+   },
+   "sticky grass": {
+      "Example": "",
+      "Date": "2017-01-07 22:13:32.666247",
+      "Definition": "",
+      "Word": "sticky grass",
+      "Sound": [
+         "content/sticky grass_1.wav",
+         "content/sticky grass_2.wav",
+         "content/sticky grass_3.wav"
+      ],
+      "Translation": [
+         "hierba pegajosa"
+      ]
+   },
+   "above and beyond": {
+      "Example": "She always goes above and beyond what is expected of her.",
+      "Date": "2017-01-03 01:04:29.221908",
+      "Definition": "prep - figurative (more than expected)",
+      "Word": "above and beyond",
+      "Sound": [
+         "content/above and beyond_1.wav",
+         "content/above and beyond_2.wav",
+         "content/above and beyond_3.wav"
+      ],
+      "Translation": [
+         "m\u00e1s all\u00e1 de",
+         "por encima de"
+      ]
+   },
+   "disrupt": {
+      "Example": "we commit to disrupt the world's peace",
+      "Date": "2017-01-03 00:28:23.721618",
+      "Definition": "vtr - (make stop)",
+      "Word": "disrupt",
+      "Sound": [
+         "content/disrupt_1.wav",
+         "content/disrupt_2.wav",
+         "content/disrupt_3.wav"
+      ],
+      "Translation": [
+         "interrumpir"
+      ]
+   },
+   "surround": {
+      "Example": "We were surrounded by lush, leafy plants.",
+      "Date": "2017-01-03 00:47:06.756301",
+      "Definition": "vtr - (be all around)",
+      "Word": "surround",
+      "Sound": [
+         "content/surround_1.wav",
+         "content/surround_2.wav",
+         "content/surround_3.wav"
+      ],
+      "Translation": [
+         "rodear",
+         "rodear a"
+      ]
+   },
+   "thorny": {
+      "Example": "Roses are beautiful, but the stems are thorny.",
+      "Date": "2017-01-07 21:53:16.925957",
+      "Definition": "adj - (plant: having thorns)",
+      "Word": "thorny",
+      "Sound": [
+         "content/thorny_1.wav",
+         "content/thorny_2.wav",
+         "content/thorny_3.wav"
+      ],
+      "Translation": [
+         "espinoso"
+      ]
+   },
+   "regardless": {
+      "Example": "He will do what he wants, regardless.",
+      "Date": "2016-12-31 19:03:15.083406",
+      "Definition": "adv - (anyway)",
+      "Word": "regardless",
+      "Sound": [
+         "content/regardless_1.wav",
+         "content/regardless_2.wav",
+         "content/regardless_3.wav"
+      ],
+      "Translation": [
+         "en cualquier caso",
+         "de todas formas"
+      ]
+   },
+   "as_7": {
+      "Example": "Tired as I was, I carried on working till the sun came up.",
+      "Date": "2017-01-21 01:29:26.296055",
+      "Definition": "conj - (though)",
+      "Word": "as",
+      "Sound": [
+         "content/as_1.wav",
+         "content/as_2.wav",
+         "content/as_3.wav"
+      ],
+      "Translation": [
+         "aunque",
+         "a pesar de"
+      ]
+   },
+   "hardly": {
+      "Example": "I'm hardly going to argue against it",
+      "Date": "2017-01-03 01:12:42.308203",
+      "Definition": "adv - (only just)",
+      "Word": "hardly",
+      "Sound": [
+         "content/hardly_1.wav",
+         "content/hardly_2.wav",
+         "content/hardly_3.wav"
+      ],
+      "Translation": [
+         "apenas",
+         "casi no",
+         "casi nadie"
+      ]
+   },
+   "blow_4": {
+      "Example": "Watch out, the bomb is going to blow!",
+      "Date": "2017-01-21 01:29:26.369588",
+      "Definition": "vi - informal (explode)",
+      "Word": "blow",
+      "Sound": [
+         "content/blow_1.wav",
+         "content/blow_2.wav",
+         "content/blow_3.wav"
+      ],
+      "Translation": [
+         "estallar"
+      ]
+   },
+   "shudder": {
+      "Example": "that really make me shudder",
+      "Date": "2016-12-26 03:12:46.981149",
+      "Definition": "n - (shaking)",
+      "Word": "shudder",
+      "Sound": [
+         "content/shudder_1.wav",
+         "content/shudder_2.wav",
+         "content/shudder_3.wav"
+      ],
+      "Translation": [
+         "escalofr\u00edo",
+         "entremecimiento"
+      ]
+   },
+   "by_5": {
+      "Example": "He does everything by the book.",
+      "Date": "2017-01-21 01:29:27.046383",
+      "Definition": "prep - (in conformity with)",
+      "Word": "by",
+      "Sound": [
+         "content/by_1.wav",
+         "content/by_2.wav",
+         "content/by_3.wav"
+      ],
+      "Translation": [
+         "seg\u00fan a",
+         "conforme a",
+         "de acuerdo con"
+      ]
+   },
+   "sailor": {
+      "Example": "The sailors busied themselves preparing the ship for her journey.",
+      "Date": "2016-12-23 01:25:40.032226",
+      "Definition": "n - (military, navy)",
+      "Word": "sailor",
+      "Sound": [
+         "content/sailor_1.wav",
+         "content/sailor_2.wav",
+         "content/sailor_3.wav"
+      ],
+      "Translation": [
+         "marinero"
+      ]
+   },
+   "woozy": {
+      "Example": "Susan felt woozy when she woke up after the operation.",
+      "Date": "2016-12-28 18:02:12.329029",
+      "Definition": "adj - informal (dizzy) ",
+      "Word": "woozy",
+      "Sound": [
+         "content/woozy_1.wav",
+         "content/woozy_2.wav",
+         "content/woozy_3.wav"
+      ],
+      "Translation": [
+         "atontado"
+      ]
+   },
+   "court": {
+      "Example": "There's a drinking fountain by the tennis court.",
+      "Date": "2016-12-22 21:02:07.098499",
+      "Definition": "n - (sport: area marked out for play)",
+      "Word": "court",
+      "Sound": [
+         "content/court_1.wav",
+         "content/court_2.wav",
+         "content/court_3.wav"
+      ],
+      "Translation": [
+         "cancha",
+         "pista"
+      ]
+   },
+   "regardless of_2": {
+      "Example": "The planning committee approved the redevelopment plans regardless of the effect on the locality.",
+      "Date": "2017-01-21 01:29:27.279053",
+      "Definition": "prep - (without considering)",
+      "Word": "regardless of",
+      "Sound": [
+         "content/regardless of_1.wav",
+         "content/regardless of_2.wav",
+         "content/regardless of_3.wav"
+      ],
+      "Translation": [
+         "sin tener en cuenta",
+         "sin considerar"
+      ]
+   },
+   "as_3": {
+      "Example": "As promised, here are the books on Shakespeare.",
+      "Date": "2017-01-21 01:29:26.296055",
+      "Definition": "adv - (in the manner)",
+      "Word": "as",
+      "Sound": [
+         "content/as_1.wav",
+         "content/as_2.wav",
+         "content/as_3.wav"
+      ],
+      "Translation": [
+         "como"
+      ]
+   },
+   "tough": {
+      "Example": "The steak was too tough.",
+      "Date": "2016-12-29 18:23:26.532074",
+      "Definition": "adj - (hard to break, chew, cut)",
+      "Word": "tough",
+      "Sound": [
+         "content/tough_1.wav",
+         "content/tough_2.wav",
+         "content/tough_3.wav"
+      ],
+      "Translation": [
+         "duro",
+         "resistente"
+      ]
+   },
+   "thieve": {
+      "Example": "collect thieves' tokens from the selvaras scouts",
+      "Date": "2016-12-25 19:27:24.769443",
+      "Definition": "vi - (steal)",
+      "Word": "thieve",
+      "Sound": [
+         "content/thieve_1.wav",
+         "content/thieve_2.wav",
+         "content/thieve_3.wav"
+      ],
+      "Translation": [
+         "hurtar",
+         "robar"
+      ]
+   },
+   "tagging": {
+      "Example": "",
+      "Date": "2017-04-09 03:01:08.892650",
+      "Definition": "(electronic monitoring)",
+      "Word": "tagging",
+      "Sound": [
+         "content/tagging_1.wav",
+         "content/tagging_2.wav"
+      ],
+      "Translation": [
+         "monitoreo"
+      ]
+   },
+   "entrepreneur": {
+      "Example": "Dirken is a busy entrepreneur.",
+      "Date": "2016-12-23 01:20:18.076626",
+      "Definition": "n - (business person)",
+      "Word": "entrepreneur",
+      "Sound": [
+         "content/entrepreneur_1.wav",
+         "content/entrepreneur_2.wav",
+         "content/entrepreneur_3.wav"
+      ],
+      "Translation": [
+         "empresario",
+         "emprendedor"
+      ]
+   },
+   "assert": {
+      "Example": "Vivian asserted her dog was not to blame for the mess.",
+      "Date": "2017-03-29 21:52:58.132969",
+      "Definition": "with clause: say as true",
+      "Word": "assert",
+      "Sound": [
+         "content/assert_1.wav",
+         "content/assert_2.wav"
+      ],
+      "Translation": [
+         "afirmar",
+         "aseverar"
+      ]
+   },
+   "bless": {
+      "Example": "The holy man blessed the new house.",
+      "Date": "2016-12-25 19:08:06.447131",
+      "Definition": "vtr - (place, object: make holy)",
+      "Word": "bless",
+      "Sound": [
+         "content/bless_1.wav",
+         "content/bless_2.wav",
+         "content/bless_3.wav"
+      ],
+      "Translation": [
+         "bendecir",
+         "consagrar"
+      ]
+   },
+   "blow_1": {
+      "Example": "which lash out to deal a devastating blow that also explodes",
+      "Date": "2017-01-21 01:29:26.369588",
+      "Definition": "n - (punch)",
+      "Word": "blow",
+      "Sound": [
+         "content/blow_1.wav",
+         "content/blow_2.wav",
+         "content/blow_3.wav"
+      ],
+      "Translation": [
+         "golpe",
+         "pu\u00f1etazo"
+      ]
+   },
+   "northern": {
+      "Example": "Canada has very cold winters because of the northern arctic winds.",
+      "Date": "2017-01-03 00:55:00.971663",
+      "Definition": "adj - (from the north)",
+      "Word": "northern",
+      "Sound": [
+         "content/northern_1.wav",
+         "content/northern_2.wav",
+         "content/northern_3.wav"
+      ],
+      "Translation": [
+         "norte\u00f1o"
+      ]
+   },
+   "deed": {
+      "Example": "not after deeds such as these",
+      "Date": "2017-01-03 01:15:04.387773",
+      "Definition": "n - (act) ",
+      "Word": "deed",
+      "Sound": [
+         "content/deed_1.wav",
+         "content/deed_2.wav",
+         "content/deed_3.wav"
+      ],
+      "Translation": [
+         "hecho",
+         "acto",
+         "acci\u00f3n",
+         "haza\u00f1a"
+      ]
+   },
+   "twin swords": {
+      "Example": "",
+      "Date": "2016-12-28 17:17:16.589133",
+      "Definition": "",
+      "Word": "twin swords",
+      "Sound": [
+         "content/twin swords_1.wav",
+         "content/twin swords_2.wav",
+         "content/twin swords_3.wav"
+      ],
+      "Translation": [
+         "dos espadas"
+      ]
+   },
+   "so far": {
+      "Example": "The commands we've covered so far are commonly used to navigate the filesystem. ",
+      "Date": "2017-04-15 22:24:08.897699",
+      "Definition": "adv. up until now",
+      "Word": "so far",
+      "Sound": [
+         "content/so far_1.wav",
+         "content/so far_2.wav"
+      ],
+      "Translation": [
+         "hasta ahora"
+      ]
+   },
+   "tender": {
+      "Example": "The newly moulted lobster has a tender shell.",
+      "Date": "2016-12-26 03:03:25.866336",
+      "Definition": "adj - (skin: sensitive) ",
+      "Word": "tender",
+      "Sound": [
+         "content/tender_1.wav",
+         "content/tender_2.wav",
+         "content/tender_3.wav"
+      ],
+      "Translation": [
+         "delicado",
+         "sensible"
+      ]
+   },
+   "outcome": {
+      "Example": "Does anyone know the outcome of the negotiations?",
+      "Date": "2017-04-15 17:16:03.876700",
+      "Definition": "n. result",
+      "Word": "outcome",
+      "Sound": [
+         "content/outcome_1.wav",
+         "content/outcome_2.wav"
+      ],
+      "Translation": [
+         "resultado"
+      ]
+   },
+   "entangle": {
+      "Example": "entangles an enemy in shadow cables",
+      "Date": "2017-01-03 00:52:43.251097",
+      "Definition": "vtr - (tangle up: in strings, etc.) ",
+      "Word": "entangle",
+      "Sound": [
+         "content/entangle_1.wav",
+         "content/entangle_2.wav",
+         "content/entangle_3.wav"
+      ],
+      "Translation": [
+         "enredar",
+         "enmara\u00f1ar"
+      ]
+   },
+   "fuel": {
+      "Example": "the nightmare-fuel arachnens had killed most of them",
+      "Date": "2016-12-26 03:06:24.890949",
+      "Definition": "vtr - figurative (add energy to) ",
+      "Word": "fuel",
+      "Sound": [
+         "content/fuel_1.wav",
+         "content/fuel_2.wav",
+         "content/fuel_3.wav"
+      ],
+      "Translation": [
+         "avivar",
+         "alimentar"
+      ]
+   },
+   "often": {
+      "Example": "",
+      "Date": "2017-04-09 03:04:26.334905",
+      "Definition": "(in many cases)",
+      "Word": "often",
+      "Sound": [
+         "content/often_1.wav",
+         "content/often_2.wav"
+      ],
+      "Translation": [
+         "a menudo",
+         "frecuentemente"
+      ]
+   },
+   "willing": {
+      "Example": "I'm willing to cook dinner tonight.",
+      "Date": "2016-12-29 18:24:54.777352",
+      "Definition": "adj - (voluntary)",
+      "Word": "willing",
+      "Sound": [
+         "content/willing_1.wav",
+         "content/willing_2.wav",
+         "content/willing_3.wav"
+      ],
+      "Translation": [
+         "dispuesto"
+      ]
+   },
+   "thief": {
+      "Example": "A thief stole the diamond ring.",
+      "Date": "2016-12-25 19:14:18.233128",
+      "Definition": "n - ([sb] who steals)",
+      "Word": "thief",
+      "Sound": [
+         "content/thief_1.wav",
+         "content/thief_2.wav",
+         "content/thief_3.wav"
+      ],
+      "Translation": [
+         "ladr\u00f3n",
+         "ratero"
+      ]
+   },
+   "wear": {
+      "Example": "lying in the grass and looking a bit worsefor wear after being caught in the thorny bush",
+      "Date": "2017-01-07 21:56:36.586472",
+      "Definition": "n - (damage due to use)",
+      "Word": "wear",
+      "Sound": [
+         "content/wear_1.wav",
+         "content/wear_2.wav",
+         "content/wear_3.wav"
+      ],
+      "Translation": [
+         "desgaste",
+         "deterioro",
+         "uso"
+      ]
+   },
+   "but": {
+      "Example": "They couldn't do anything but stand there and stare",
+      "Date": "2017-01-03 01:20:55.283187",
+      "Definition": "conj - (except)",
+      "Word": "but",
+      "Sound": [
+         "content/but_1.wav",
+         "content/but_2.wav",
+         "content/but_3.wav"
+      ],
+      "Translation": [
+         "nada m\u00e1s que",
+         "excepto",
+         "sino"
+      ]
+   },
+   "fist": {
+      "Example": "Jim shook his fist at the teenagers as he shouted at them.",
+      "Date": "2016-12-28 17:21:19.964364",
+      "Definition": "n - (closed hand)",
+      "Word": "fist",
+      "Sound": [
+         "content/fist_1.wav",
+         "content/fist_2.wav",
+         "content/fist_3.wav"
+      ],
+      "Translation": [
+         "pu\u00f1o"
+      ]
+   },
+   "behavior": {
+      "Example": "The -a modifies the behavior of the ls command ",
+      "Date": "2017-04-15 22:43:33.503312",
+      "Definition": "n. person: conduct",
+      "Word": "behavior",
+      "Sound": [
+         "content/behavior_1.wav",
+         "content/behavior_2.wav"
+      ],
+      "Translation": [
+         "comportamiento",
+         "conducta",
+         "proceder"
+      ]
+   },
+   "flurry": {
+      "Example": "A flurry of snow blew across the field.",
+      "Date": "2017-01-09 18:37:42.753351",
+      "Definition": "n - (snow)",
+      "Word": "flurry",
+      "Sound": [
+         "content/flurry_1.wav",
+         "content/flurry_2.wav",
+         "content/flurry_3.wav"
+      ],
+      "Translation": [
+         "r\u00e1faga"
+      ]
+   },
+   "doubtful": {
+      "Example": "This painting is of doubtful authenticity.",
+      "Date": "2017-01-04 01:01:09.525200",
+      "Definition": "adj - (dubious)",
+      "Word": "doubtful",
+      "Sound": [
+         "content/doubtful_1.wav",
+         "content/doubtful_2.wav",
+         "content/doubtful_3.wav"
+      ],
+      "Translation": [
+         "dudoso"
+      ]
+   },
+   "it's worth a try": {
+      "Example": "",
+      "Date": "2017-01-07 22:11:42.699913",
+      "Definition": "",
+      "Word": "it's worth a try",
+      "Sound": [
+         "content/it's worth a try_1.wav",
+         "content/it's worth a try_2.wav",
+         "content/it's worth a try_3.wav"
+      ],
+      "Translation": [
+         "vale la pena intentarlo"
+      ]
+   },
+   "as_5": {
+      "Example": "As he was climbing the ladder, his hammer slipped from his belt.",
+      "Date": "2017-01-21 01:29:26.296055",
+      "Definition": "conj - (while)",
+      "Word": "as",
+      "Sound": [
+         "content/as_1.wav",
+         "content/as_2.wav",
+         "content/as_3.wav"
+      ],
+      "Translation": [
+         "mientras"
+      ]
+   },
+   "newly": {
+      "Example": "",
+      "Date": "2016-12-26 02:54:57.063334",
+      "Definition": "adv - (recently, freshly)",
+      "Word": "newly",
+      "Sound": [
+         "content/newly_1.wav",
+         "content/newly_2.wav",
+         "content/newly_3.wav"
+      ],
+      "Translation": [
+         "recientemente",
+         "\u00faltimamente"
+      ]
+   },
+   "vitamin": {
+      "Example": "I contain vitamin C and fiber",
+      "Date": "2016-12-26 15:19:31.599559",
+      "Definition": "n - (nutrient)",
+      "Word": "vitamin",
+      "Sound": [
+         "content/vitamin_1.wav",
+         "content/vitamin_2.wav",
+         "content/vitamin_3.wav"
+      ],
+      "Translation": [
+         "vitamina"
+      ]
+   },
+   "dread_2": {
+      "Example": "",
+      "Date": "2017-01-21 01:29:26.750407",
+      "Definition": "vtr - fear",
+      "Word": "dread",
+      "Sound": [
+         "content/dread_1.wav",
+         "content/dread_2.wav",
+         "content/dread_3.wav"
+      ],
+      "Translation": [
+         "temer"
+      ]
+   },
+   "overlord": {
+      "Example": "tremble before your pony overlords",
+      "Date": "2017-01-03 00:30:01.896801",
+      "Definition": "n - (master)",
+      "Word": "overlord",
+      "Sound": [
+         "content/overlord_1.wav",
+         "content/overlord_2.wav",
+         "content/overlord_3.wav"
+      ],
+      "Translation": [
+         "gobernante supremo",
+         "jefe supremo",
+         "general\u00edsimo"
+      ]
+   },
+   "blow_2": {
+      "Example": "The winter wind blows from the west.",
+      "Date": "2017-01-21 01:29:26.369588",
+      "Definition": "vi - (air: move)",
+      "Word": "blow",
+      "Sound": [
+         "content/blow_1.wav",
+         "content/blow_2.wav",
+         "content/blow_3.wav"
+      ],
+      "Translation": [
+         "soplar"
+      ]
+   },
+   "humble": {
+      "Example": "you should be humble. She doesn't meet with just anyone",
+      "Date": "2017-01-03 01:22:22.871415",
+      "Definition": "vtr - (make [sb] humble)",
+      "Word": "humble",
+      "Sound": [
+         "content/humble_1.wav",
+         "content/humble_2.wav",
+         "content/humble_3.wav"
+      ],
+      "Translation": [
+         "humillar",
+         "degradar",
+         "sobajar",
+         "bajar los humos"
+      ]
+   },
+   "as_1": {
+      "Example": "Bob is five feet ten and Janet is just as tall.",
+      "Date": "2017-01-21 01:29:26.296055",
+      "Definition": "adv - (equally)",
+      "Word": "as",
+      "Sound": [
+         "content/as_1.wav",
+         "content/as_2.wav",
+         "content/as_3.wav"
+      ],
+      "Translation": [
+         "igual"
+      ]
+   },
+   "by_1": {
+      "Example": "There's a drinking fountain by the tennis court.",
+      "Date": "2017-01-21 01:29:27.046383",
+      "Definition": "prep - (close: around)",
+      "Word": "by",
+      "Sound": [
+         "content/by_1.wav",
+         "content/by_2.wav",
+         "content/by_3.wav"
+      ],
+      "Translation": [
+         "por",
+         "junto a"
+      ]
+   },
+   "proficiency": {
+      "Example": "increase gathering proficiencies by 10.",
+      "Date": "2016-12-25 19:39:54.563466",
+      "Definition": "n - (ability)",
+      "Word": "proficiency",
+      "Sound": [
+         "content/proficiency_1.wav",
+         "content/proficiency_2.wav",
+         "content/proficiency_3.wav"
+      ],
+      "Translation": [
+         "competencia",
+         "aptitud",
+         "capacidad"
+      ]
+   },
+   "cane": {
+      "Example": "Grandpa uses a cane when he walks long distances.",
+      "Date": "2016-12-28 17:56:21.591482",
+      "Definition": "n - (walking stick)",
+      "Word": "cane",
+      "Sound": [
+         "content/cane_1.wav",
+         "content/cane_2.wav",
+         "content/cane_3.wav"
+      ],
+      "Translation": [
+         "bast\u00f3n"
+      ]
+   },
+   "to": {
+      "Example": "He walked to the house.",
+      "Date": "2016-12-25 18:55:17.818198",
+      "Definition": "prep - (toward)",
+      "Word": "to",
+      "Sound": [
+         "content/to_1.wav",
+         "content/to_2.wav",
+         "content/to_3.wav"
+      ],
+      "Translation": [
+         "en",
+         "hacia"
+      ]
+   },
+   "get rid of": {
+      "Example": "it's time to get rid of them",
+      "Date": "2016-12-23 01:41:19.579144",
+      "Definition": "n - informal (throw away)",
+      "Word": "get rid of",
+      "Sound": [
+         "content/get rid of_1.wav",
+         "content/get rid of_2.wav",
+         "content/get rid of_3.wav"
+      ],
+      "Translation": [
+         "deshacerse de"
+      ]
+   },
+   "appendix": {
+      "Example": "An appendix of all commands taught in this course is available here",
+      "Date": "2017-04-15 17:23:43.414006",
+      "Definition": "on document",
+      "Word": "appendix",
+      "Sound": [
+         "content/appendix_1.wav",
+         "content/appendix_2.wav"
+      ],
+      "Translation": [
+         "ap\u00e9ndice"
+      ]
+   },
+   "by_3": {
+      "Example": "You must have the report done by Monday.",
+      "Date": "2017-01-21 01:29:27.046383",
+      "Definition": "prep - (time: not later than)",
+      "Word": "by",
+      "Sound": [
+         "content/by_1.wav",
+         "content/by_2.wav",
+         "content/by_3.wav"
+      ],
+      "Translation": [
+         "para"
+      ]
+   },
+   "by_6": {
+      "Example": "By finishing her homework early, she was able to join her friends.",
+      "Date": "2017-01-21 01:29:27.046383",
+      "Definition": "prep - \t(indicating means)",
+      "Word": "by",
+      "Sound": [
+         "content/by_1.wav",
+         "content/by_2.wav",
+         "content/by_3.wav"
+      ],
+      "Translation": [
+         "por",
+         "al"
+      ]
+   },
+   "slay": {
+      "Example": "slaying the slavemasters",
+      "Date": "2016-12-26 03:16:28.425490",
+      "Definition": "vtr - kill",
+      "Word": "slay",
+      "Sound": [
+         "content/slay_1.wav",
+         "content/slay_2.wav",
+         "content/slay_3.wav"
+      ],
+      "Translation": [
+         "matar",
+         "matar a"
+      ]
+   },
+   "regardless of_1": {
+      "Example": "He continued working regardless of his illness.",
+      "Date": "2017-01-21 01:29:27.279053",
+      "Definition": "prep - (in spite of)",
+      "Word": "regardless of",
+      "Sound": [
+         "content/regardless of_1.wav",
+         "content/regardless of_2.wav",
+         "content/regardless of_3.wav"
+      ],
+      "Translation": [
+         "a pesar de"
+      ]
+   },
+   "came out": {
+      "Example": "",
+      "Date": "2017-02-16 21:59:19.239678",
+      "Definition": "",
+      "Word": "came out",
+      "Sound": [
+         "content/came out_1.wav",
+         "content/came out_2.wav",
+         "content/came out_3.wav"
+      ],
+      "Translation": [
+         "sali\u00f3"
+      ]
+   },
+   "soothe": {
+      "Example": "Maggie did her best to soothe the crying child.",
+      "Date": "2017-01-07 21:46:19.232912",
+      "Definition": "vtr - (comfort, calm)",
+      "Word": "soothe",
+      "Sound": [
+         "content/soothe_1.wav",
+         "content/soothe_2.wav",
+         "content/soothe_3.wav"
+      ],
+      "Translation": [
+         "tranquilizar",
+         "calmar",
+         "confortar"
+      ]
+   },
+   "stem": {
+      "Example": "This flower has a long stem.",
+      "Date": "2017-01-07 21:54:00.517067",
+      "Definition": "n - (plant stalk)",
+      "Word": "stem",
+      "Sound": [
+         "content/stem_1.wav",
+         "content/stem_2.wav",
+         "content/stem_3.wav"
+      ],
+      "Translation": [
+         "tallo"
+      ]
+   },
+   "leafy": {
+      "Example": "We were surrounded by lush, leafy plants.",
+      "Date": "2017-01-03 00:49:14.615243",
+      "Definition": "ajd - (tree: having many leaves)",
+      "Word": "leafy",
+      "Sound": [
+         "content/leafy_1.wav",
+         "content/leafy_2.wav",
+         "content/leafy_3.wav"
+      ],
+      "Translation": [
+         "frondoso"
+      ]
+   },
+   "what remains": {
+      "Example": "",
+      "Date": "2016-12-26 03:07:41.887228",
+      "Definition": "",
+      "Word": "what remains",
+      "Sound": [
+         "content/what remains_1.wav",
+         "content/what remains_2.wav",
+         "content/what remains_3.wav"
+      ],
+      "Translation": [
+         "lo que queda"
+      ]
+   },
+   "hideout": {
+      "Example": "The criminal's hideout was eventually discovered by police dogs.",
+      "Date": "2017-01-03 00:59:58.280305",
+      "Definition": "n - (place to hide)",
+      "Word": "hideout",
+      "Sound": [
+         "content/hideout_1.wav",
+         "content/hideout_2.wav",
+         "content/hideout_3.wav"
+      ],
+      "Translation": [
+         "escondite",
+         "guarida"
+      ]
+   },
+   "stubborn": {
+      "Example": "Joe's simply stubborn",
+      "Date": "2016-12-24 01:44:22.674123",
+      "Definition": "adj - (obstinate)",
+      "Word": "stubborn",
+      "Sound": [
+         "content/stubborn_1.wav",
+         "content/stubborn_2.wav",
+         "content/stubborn_3.wav"
+      ],
+      "Translation": [
+         "terco"
+      ]
+   },
+   "lobster": {
+      "Example": "The newly moulted lobster has a tender shell.",
+      "Date": "2016-12-26 02:59:39.371419",
+      "Definition": "n - (crustacean)",
+      "Word": "lobster",
+      "Sound": [
+         "content/lobster_1.wav",
+         "content/lobster_2.wav",
+         "content/lobster_3.wav"
+      ],
+      "Translation": [
+         "langosta"
+      ]
+   },
+   "suitable": {
+      "Example": "my design uses a more suitable one",
+      "Date": "2016-12-24 01:40:54.114261",
+      "Definition": "adj - (appropriate)",
+      "Word": "suitable",
+      "Sound": [
+         "content/suitable_1.wav",
+         "content/suitable_2.wav",
+         "content/suitable_3.wav"
+      ],
+      "Translation": [
+         "apropiado",
+         "apto",
+         "adecuado"
+      ]
+   },
+   "master": {
+      "Example": "There are more commands you can use to master the command line",
+      "Date": "2017-04-15 22:28:35.378237",
+      "Definition": "vtr. become expert",
+      "Word": "master",
+      "Sound": [
+         "content/master_1.wav",
+         "content/master_2.wav"
+      ],
+      "Translation": [
+         "dominar"
+      ]
+   },
+   "prior": {
+      "Example": "",
+      "Date": "2017-04-09 03:15:04.611617",
+      "Definition": "(previous)",
+      "Word": "prior",
+      "Sound": [
+         "content/prior_1.wav",
+         "content/prior_2.wav"
+      ],
+      "Translation": [
+         "anterior"
+      ]
+   },
+   "ripe": {
+      "Example": "who wish to live to a ripe old age",
+      "Date": "2017-01-03 01:42:32.678375",
+      "Definition": "adj - figurative (time: perfect) ",
+      "Word": "ripe",
+      "Sound": [
+         "content/ripe_1.wav",
+         "content/ripe_2.wav",
+         "content/ripe_3.wav"
+      ],
+      "Translation": [
+         "maduro"
+      ]
+   },
+   "keen": {
+      "Example": "you're not the keener I expected",
+      "Date": "2017-01-03 01:09:27.289044",
+      "Definition": "adj - esp UK (enthusiastic)",
+      "Word": "keen",
+      "Sound": [
+         "content/keen_1.wav",
+         "content/keen_2.wav",
+         "content/keen_3.wav"
+      ],
+      "Translation": [
+         "entusiasta",
+         "fan\u00e1tico",
+         "aficionado"
+      ]
+   },
+   "plenty": {
+      "Example": "The food is plenty for everyone.",
+      "Date": "2016-12-29 18:26:37.603159",
+      "Definition": "adj - (a lot, much)",
+      "Word": "plenty",
+      "Sound": [
+         "content/plenty_1.wav",
+         "content/plenty_2.wav",
+         "content/plenty_3.wav"
+      ],
+      "Translation": [
+         "bastante",
+         "suficiente"
+      ]
+   },
+   "as_4": {
+      "Example": "Do as I say, not as I do.",
+      "Date": "2017-01-21 01:29:26.296055",
+      "Definition": "conj - (in the manner)",
+      "Word": "as",
+      "Sound": [
+         "content/as_1.wav",
+         "content/as_2.wav",
+         "content/as_3.wav"
+      ],
+      "Translation": [
+         "lo que"
+      ]
+   },
+   "dye": {
+      "Example": "Wendy couldn't find a pair of shoes she liked to go with her red dress, so she bought a pair of white shoes and some red dye.",
+      "Date": "2016-12-26 03:22:03.508128",
+      "Definition": "n - (coloring material)",
+      "Word": "dye",
+      "Sound": [
+         "content/dye_1.wav",
+         "content/dye_2.wav",
+         "content/dye_3.wav"
+      ],
+      "Translation": [
+         "tinte",
+         "tintura",
+         "colorante"
+      ]
+   },
+   "scythe": {
+      "Example": "The grass had grown so long, Edwin had to use a scythe to cut it.",
+      "Date": "2016-12-28 17:15:47.800953",
+      "Definition": "n - (tool for cutting crops)",
+      "Word": "scythe",
+      "Sound": [
+         "content/scythe_1.wav",
+         "content/scythe_2.wav",
+         "content/scythe_3.wav"
+      ],
+      "Translation": [
+         "guada\u00f1a"
+      ]
+   },
+   "southern": {
+      "Example": "Southern accents are different from northern accents.",
+      "Date": "2017-01-03 00:54:35.748561",
+      "Definition": "adj - (from south)",
+      "Word": "southern",
+      "Sound": [
+         "content/southern_1.wav",
+         "content/southern_2.wav",
+         "content/southern_3.wav"
+      ],
+      "Translation": [
+         "sure\u00f1o",
+         "del sur"
+      ]
+   },
+   "dread_1": {
+      "Example": "A feeling of dread settled over Robert when he heard noises in the empty house.",
+      "Date": "2017-01-21 01:29:26.750407",
+      "Definition": "n - (fear)",
+      "Word": "dread",
+      "Sound": [
+         "content/dread_1.wav",
+         "content/dread_2.wav",
+         "content/dread_3.wav"
+      ],
+      "Translation": [
+         "temor",
+         "pavor",
+         "terror"
+      ]
+   },
+   "as_2": {
+      "Example": "He thinks of himself as a great photographer.",
+      "Date": "2017-01-21 01:29:26.296055",
+      "Definition": "adv - (considered to be)",
+      "Word": "as",
+      "Sound": [
+         "content/as_1.wav",
+         "content/as_2.wav",
+         "content/as_3.wav"
+      ],
+      "Translation": [
+         "como"
+      ]
+   },
+   "kinda": {
+      "Example": "every sailor starts to look kinda suspicious",
+      "Date": "2016-12-23 01:30:47.882058",
+      "Definition": "adv - slang (kind of)",
+      "Word": "kinda",
+      "Sound": [
+         "content/kinda_1.wav",
+         "content/kinda_2.wav",
+         "content/kinda_3.wav"
+      ],
+      "Translation": [
+         "un poco"
+      ]
+   },
+   "deal": {
+      "Example": "The two sides made a deal.",
+      "Date": "2016-12-25 19:09:33.051081",
+      "Definition": "n - (agreement)",
+      "Word": "deal",
+      "Sound": [
+         "content/deal_1.wav",
+         "content/deal_2.wav",
+         "content/deal_3.wav"
+      ],
+      "Translation": [
+         "acuerdo",
+         "trato"
+      ]
+   },
+   "backup": {
+      "Example": "",
+      "Date": "2017-04-14 13:03:19.560067",
+      "Definition": "duplicate copy",
+      "Word": "backup",
+      "Sound": [
+         "content/backup_1.wav",
+         "content/backup_2.wav"
+      ],
+      "Translation": [
+         "respaldar",
+         "copia seguridad"
+      ]
+   },
+   "potsherd": {
+      "Example": "a pungent mucus stains the porsherds",
+      "Date": "2017-01-03 00:35:48.094700",
+      "Definition": "n - (piece of broken pottery)",
+      "Word": "potsherd",
+      "Sound": [
+         "content/potsherd_1.wav",
+         "content/potsherd_2.wav",
+         "content/potsherd_3.wav"
+      ],
+      "Translation": [
+         "tiesto",
+         "fragmento de vasija"
+      ]
+   },
+   "peel": {
+      "Example": "Ray has been peeling potatoes all day.",
+      "Date": "2016-12-26 03:10:06.458937",
+      "Definition": "vtr - (remove skin from: fruit, etc.)",
+      "Word": "peel",
+      "Sound": [
+         "content/peel_1.wav",
+         "content/peel_2.wav",
+         "content/peel_3.wav"
+      ],
+      "Translation": [
+         "pelar",
+         "mondar"
+      ]
+   },
+   "waver": {
+      "Example": "We wavered a bit when we saw how long the hike would take.",
+      "Date": "2016-12-24 01:01:03.062936",
+      "Definition": "vi - figurative (lose courage)",
+      "Word": "waver",
+      "Sound": [
+         "content/waver_1.wav",
+         "content/waver_2.wav",
+         "content/waver_3.wav"
+      ],
+      "Translation": [
+         "dudar",
+         "titubear",
+         "vacilar",
+         "flaquear"
+      ]
+   },
+   "above": {
+      "Example": "The above examples demonstrate how common the problem is.",
+      "Date": "2017-04-15 21:52:01.666855",
+      "Definition": "adj. aforementioned",
+      "Word": "above",
+      "Sound": [
+         "content/above_1.wav"
+      ],
+      "Translation": [
+         "anterior"
+      ]
+   },
+   "stick around": {
+      "Example": "the others will be too afraid to stick around",
+      "Date": "2017-01-09 18:49:47.908571",
+      "Definition": "vi phrasal - informal (stay) ",
+      "Word": "stick around",
+      "Sound": [
+         "content/stick around_1.wav",
+         "content/stick around_2.wav",
+         "content/stick around_3.wav"
+      ],
+      "Translation": [
+         "plantarse",
+         "quedarse"
+      ]
+   },
+   "enrage": {
+      "Example": "The apparent corruption of the government enraged the citizens.",
+      "Date": "2016-12-25 19:05:31.191200",
+      "Definition": "vtr - (make angry)",
+      "Word": "enrage",
+      "Sound": [
+         "content/enrage_1.wav",
+         "content/enrage_2.wav",
+         "content/enrage_3.wav"
+      ],
+      "Translation": [
+         "enfadar",
+         "enfurecer",
+         "encolerizar"
+      ]
+   },
+   "stagger": {
+      "Example": "are more resistant to knockdown and stagger",
+      "Date": "2017-01-09 18:41:59.190124",
+      "Definition": "vi - (emotionally)",
+      "Word": "stagger",
+      "Sound": [
+         "content/stagger_1.wav",
+         "content/stagger_2.wav",
+         "content/stagger_3.wav"
+      ],
+      "Translation": [
+         "pasmar",
+         "asombrar",
+         "dejar at\u00f3nito"
+      ]
+   },
+   "rear": {
+      "Example": "Carl was relieved to learn that his son's squadron was in the rear.",
+      "Date": "2016-12-24 00:58:54.907364",
+      "Definition": "n - (military: away from fighting)",
+      "Word": "rear",
+      "Sound": [
+         "content/rear_1.wav",
+         "content/rear_2.wav",
+         "content/rear_3.wav"
+      ],
+      "Translation": [
+         "retaguardia"
+      ]
+   },
+   "whereabouts": {
+      "Example": "did you learn the whereabouts of Samael's spies?",
+      "Date": "2016-12-23 01:38:00.035325",
+      "Definition": "n - informal (precise location)",
+      "Word": "whereabouts",
+      "Sound": [
+         "content/whereabouts_1.wav",
+         "content/whereabouts_2.wav",
+         "content/whereabouts_3.wav"
+      ],
+      "Translation": [
+         "paradero",
+         "localizaci\u00f3n"
+      ]
+   },
+   "perform": {
+      "Example": "We performed a human-subject",
+      "Date": "2017-04-09 03:18:50.809542",
+      "Definition": "(enact)",
+      "Word": "perform",
+      "Sound": [
+         "content/perform_1.wav",
+         "content/perform_2.wav"
+      ],
+      "Translation": [
+         "representar"
+      ]
+   },
+   "by_7": {
+      "Example": "Two by four is eight.",
+      "Date": "2017-01-21 01:29:27.046383",
+      "Definition": "prep - (multiplied by, times) ",
+      "Word": "by",
+      "Sound": [
+         "content/by_1.wav",
+         "content/by_2.wav",
+         "content/by_3.wav"
+      ],
+      "Translation": [
+         "por",
+         "veces"
+      ]
+   },
+   "bush": {
+      "Example": "We planted some bushes in front of our new house.",
+      "Date": "2017-01-07 21:48:06.457360",
+      "Definition": "n - (plant)",
+      "Word": "bush",
+      "Sound": [
+         "content/bush_1.wav",
+         "content/bush_2.wav",
+         "content/bush_3.wav"
+      ],
+      "Translation": [
+         "arbusto",
+         "mata"
+      ]
+   },
+   "bribe": {
+      "Example": "perhaps he's been bribed?",
+      "Date": "2017-01-04 00:58:47.377391",
+      "Definition": "vtr - (persuade [sb] with money, etc.)",
+      "Word": "bribe",
+      "Sound": [
+         "content/bribe_1.wav",
+         "content/bribe_2.wav",
+         "content/bribe_3.wav"
+      ],
+      "Translation": [
+         "sobornar"
+      ]
+   },
+   "maintenance": {
+      "Example": "From Tuesday, January 3 (after maintenance)",
+      "Date": "2017-01-03 17:51:22.268085",
+      "Definition": "n - (upkeep, care)",
+      "Word": "maintenance",
+      "Sound": [
+         "content/maintenance_1.wav",
+         "content/maintenance_2.wav",
+         "content/maintenance_3.wav"
+      ],
+      "Translation": [
+         "mantenimiento"
+      ]
+   },
+   "sprout": {
+      "Example": "New houses seemed to be sprouting everywhere these days.",
+      "Date": "2017-01-09 18:47:30.993831",
+      "Definition": "vi - figurative (come up like a plant) ",
+      "Word": "sprout",
+      "Sound": [
+         "content/sprout_1.wav",
+         "content/sprout_2.wav",
+         "content/sprout_3.wav"
+      ],
+      "Translation": [
+         "brotar",
+         "germinar",
+         "salir"
+      ]
+   },
+   "regardless of the cost": {
+      "Example": "They were determined to win the war regardless of the cost.",
+      "Date": "2016-12-31 19:07:17.342195",
+      "Definition": "adv - figurative (however bad the consequences) ",
+      "Word": "regardless of the cost",
+      "Sound": [
+         "content/regardless of the cost_1.wav",
+         "content/regardless of the cost_2.wav",
+         "content/regardless of the cost_3.wav"
+      ],
+      "Translation": [
+         "cueste lo que cueste",
+         "a cualquier precio"
+      ]
+   },
+   "armour": {
+      "Example": "",
+      "Date": "2016-12-25 19:04:02.087865",
+      "Definition": "n - (hard combat gear) ",
+      "Word": "armour",
+      "Sound": [
+         "content/armour_1.wav",
+         "content/armour_2.wav",
+         "content/armour_3.wav"
+      ],
+      "Translation": [
+         "armadura"
+      ]
+   },
+   "deft": {
+      "Example": "deftly handled",
+      "Date": "2016-12-23 01:55:05.190493",
+      "Definition": "adj - (physically skilful)",
+      "Word": "deft",
+      "Sound": [
+         "content/deft_1.wav",
+         "content/deft_2.wav",
+         "content/deft_3.wav"
+      ],
+      "Translation": [
+         "h\u00e1bil",
+         "diestro"
+      ]
+   },
+   "headquarters": {
+      "Example": "",
+      "Date": "2016-12-25 18:57:56.298287",
+      "Definition": "n - (military: command centre)",
+      "Word": "headquarters",
+      "Sound": [
+         "content/headquarters_1.wav",
+         "content/headquarters_2.wav",
+         "content/headquarters_3.wav"
+      ],
+      "Translation": [
+         "cuartel general"
+      ]
+   },
+   "dodge": {
+      "Example": "",
+      "Date": "2017-01-09 18:44:33.668625",
+      "Definition": "vtr - (avoid: physically)",
+      "Word": "dodge",
+      "Sound": [
+         "content/dodge_1.wav",
+         "content/dodge_2.wav",
+         "content/dodge_3.wav"
+      ],
+      "Translation": [
+         "esquivar",
+         "evitar"
+      ]
+   },
+   "allay": {
+      "Example": "What can we tell them to allay their fears about the operation?",
+      "Date": "2017-01-04 01:10:04.084707",
+      "Definition": "vtr - (emotion: calm, ease)",
+      "Word": "allay",
+      "Sound": [
+         "content/allay_1.wav",
+         "content/allay_2.wav",
+         "content/allay_3.wav"
+      ],
+      "Translation": [
+         "aliviar",
+         "calmar",
+         "apaciguar"
+      ]
+   },
+   "feasible": {
+      "Example": "",
+      "Date": "2017-04-09 03:06:34.876915",
+      "Definition": "(possible, doable)",
+      "Word": "feasible",
+      "Sound": [
+         "content/feasible_1.wav",
+         "content/feasible_2.wav"
+      ],
+      "Translation": [
+         "viable",
+         "factible"
+      ]
+   },
+   "stack up": {
+      "Example": "effect stacks up to four minutes",
+      "Date": "2016-12-25 19:40:39.037565",
+      "Definition": "vtr phrasal - (arrange in a pile)",
+      "Word": "stack up",
+      "Sound": [
+         "content/stack up_1.wav",
+         "content/stack up_2.wav",
+         "content/stack up_3.wav"
+      ],
+      "Translation": [
+         "apilar",
+         "amontonar"
+      ]
+   },
+   "by your leave": {
+      "Example": "by your leave, sir...",
+      "Date": "2017-01-03 01:23:32.454866",
+      "Definition": "",
+      "Word": "by your leave",
+      "Sound": [
+         "content/by your leave_1.wav",
+         "content/by your leave_2.wav",
+         "content/by your leave_3.wav"
+      ],
+      "Translation": [
+         "con su permiso"
+      ]
+   },
+   "fully": {
+      "Example": "The patient was fully conscious, but also totally paralyzed.",
+      "Date": "2017-04-09 03:10:37.990597",
+      "Definition": "(completely)",
+      "Word": "fully",
+      "Sound": [
+         "content/fully_1.wav",
+         "content/fully_2.wav"
+      ],
+      "Translation": [
+         "completamente",
+         "enteramente",
+         "por completo"
+      ]
+   },
+   "ruse": {
+      "Example": "Is this just a ruse to make me sign the contract?",
+      "Date": "2017-01-04 00:56:09.600511",
+      "Definition": "n - (trick)",
+      "Word": "ruse",
+      "Sound": [
+         "content/ruse_1.wav",
+         "content/ruse_2.wav",
+         "content/ruse_3.wav"
+      ],
+      "Translation": [
+         "treta",
+         "trampa"
+      ]
+   },
+   "swing": {
+      "Example": "The player swung the tennis racket.",
+      "Date": "2017-01-09 18:39:36.968323",
+      "Definition": "vtr - (racket, bat)",
+      "Word": "swing",
+      "Sound": [
+         "content/swing_1.wav",
+         "content/swing_2.wav",
+         "content/swing_3.wav"
+      ],
+      "Translation": [
+         "balancear"
+      ]
+   },
+   "fewer": {
+      "Example": "There will be fewer people at dinner than I expected.",
+      "Date": "2016-12-29 18:33:29.027621",
+      "Definition": "adj - (less, a smaller number of)",
+      "Word": "fewer",
+      "Sound": [
+         "content/fewer_1.wav",
+         "content/fewer_2.wav",
+         "content/fewer_3.wav"
+      ],
+      "Translation": [
+         "menos"
+      ]
+   },
+   "rash_2": {
+      "Example": "Maggie went to see the doctor about the rash on her leg.",
+      "Date": "2017-01-21 01:29:26.474493",
+      "Definition": "n - (irritated skin)",
+      "Word": "rash",
+      "Sound": [
+         "content/rash_1.wav",
+         "content/rash_2.wav",
+         "content/rash_3.wav"
+      ],
+      "Translation": [
+         "sarpullido",
+         "erupci\u00f3n"
+      ]
+   },
+   "unveil": {
+      "Example": "unveil the mask",
+      "Date": "2016-12-25 19:00:03.783739",
+      "Definition": "vtr - (show for first time)",
+      "Word": "unveil",
+      "Sound": [
+         "content/unveil_1.wav",
+         "content/unveil_2.wav",
+         "content/unveil_3.wav"
+      ],
+      "Translation": [
+         "desvelar",
+         "descubrir",
+         "revelar"
+      ]
+   },
+   "rash_1": {
+      "Example": "I was rash to judge you",
+      "Date": "2017-01-21 01:29:26.474493",
+      "Definition": "adj - (unwise, without thought)",
+      "Word": "rash",
+      "Sound": [
+         "content/rash_1.wav",
+         "content/rash_2.wav",
+         "content/rash_3.wav"
+      ],
+      "Translation": [
+         "temerario",
+         "impulsivo",
+         "imprudente",
+         "en un arrebato"
+      ]
+   },
+   "pity": {
+      "Example": "It is a pity that you missed the bus and had to walk.",
+      "Date": "2017-01-03 01:24:59.199261",
+      "Definition": "n - (sad fact)",
+      "Word": "pity",
+      "Sound": [
+         "content/pity_1.wav",
+         "content/pity_2.wav",
+         "content/pity_3.wav"
+      ],
+      "Translation": [
+         "pena"
+      ]
+   },
+   "glowing": {
+      "Example": "It's rare to see such glowing words written in Mattin's hands",
+      "Date": "2017-01-03 01:03:37.209535",
+      "Definition": "adj - (giving light)",
+      "Word": "glowing",
+      "Sound": [
+         "content/glowing_1.wav",
+         "content/glowing_2.wav",
+         "content/glowing_3.wav"
+      ],
+      "Translation": [
+         "brillante",
+         "encendido"
+      ]
+   },
+   "shell": {
+      "Example": "The newly moulted lobster has a tender shell.",
+      "Date": "2016-12-26 02:53:51.641948",
+      "Definition": "n - (crustacean's exoskeleton)",
+      "Word": "shell",
+      "Sound": [
+         "content/shell_1.wav",
+         "content/shell_2.wav",
+         "content/shell_3.wav"
+      ],
+      "Translation": [
+         "caparaz\u00f3n"
+      ]
+   },
+   "blow_3": {
+      "Example": "Sand blows across the beach.",
+      "Date": "2017-01-21 01:29:26.369588",
+      "Definition": "vi - (be swept by air)",
+      "Word": "blow",
+      "Sound": [
+         "content/blow_1.wav",
+         "content/blow_2.wav",
+         "content/blow_3.wav"
+      ],
+      "Translation": [
+         "volar"
+      ]
+   },
+   "treachery": {
+      "Example": "Amanda was shocked by her best friend's treachery.",
+      "Date": "2016-12-24 01:02:40.799345",
+      "Definition": "n - (betrayal)",
+      "Word": "treachery",
+      "Sound": [
+         "content/treachery_1.wav",
+         "content/treachery_2.wav",
+         "content/treachery_3.wav"
+      ],
+      "Translation": [
+         "traici\u00f3n"
+      ]
+   },
+   "upstanding": {
+      "Example": "The Hands feel that upstanding members of society",
+      "Date": "2017-01-03 01:44:31.773832",
+      "Definition": "adj - (honourable, decent)",
+      "Word": "upstanding",
+      "Sound": [
+         "content/upstanding_1.wav",
+         "content/upstanding_2.wav",
+         "content/upstanding_3.wav"
+      ],
+      "Translation": [
+         "honorable",
+         "honrado",
+         "noble"
+      ]
+   },
+   "waif": {
+      "Example": "Edward Jones established a home for waifs and strays in 1872.",
+      "Date": "2017-01-03 00:51:42.935501",
+      "Definition": "n - (orphan, homeless child)",
+      "Word": "waif",
+      "Sound": [
+         "content/waif_1.wav",
+         "content/waif_2.wav",
+         "content/waif_3.wav"
+      ],
+      "Translation": [
+         "ni\u00f1o abandonado"
+      ]
+   },
+   "paramount": {
+      "Example": "The children's safety is our paramount concern.",
+      "Date": "2017-01-03 01:46:34.936053",
+      "Definition": "adj - (importance: top, highest)",
+      "Word": "paramount",
+      "Sound": [
+         "content/paramount_1.wav",
+         "content/paramount_2.wav",
+         "content/paramount_3.wav"
+      ],
+      "Translation": [
+         "primordial"
+      ]
+   },
+   "pungent": {
+      "Example": "I wouldn't eat anything that smelled that pungent.",
+      "Date": "2017-01-03 00:32:06.334477",
+      "Definition": "adj - (smell: acrid)",
+      "Word": "pungent",
+      "Sound": [
+         "content/pungent_1.wav",
+         "content/pungent_2.wav",
+         "content/pungent_3.wav"
+      ],
+      "Translation": [
+         "acre",
+         "picante",
+         "\u00e1spero"
+      ]
+   },
+   "gauche": {
+      "Example": "you are a gauche",
+      "Date": "2016-12-24 01:46:39.604951",
+      "Definition": "adj - French (socially awkward) ",
+      "Word": "gauche",
+      "Sound": [
+         "content/gauche_1.wav",
+         "content/gauche_2.wav",
+         "content/gauche_3.wav"
+      ],
+      "Translation": [
+         "torpe",
+         "cohibido",
+         "desma\u00f1ado"
+      ]
+   },
+   "needle": {
+      "Example": "needle and thread",
+      "Date": "2017-01-07 22:08:56.540457",
+      "Definition": "n - (sewing needle)",
+      "Word": "needle",
+      "Sound": [
+         "content/needle_1.wav",
+         "content/needle_2.wav",
+         "content/needle_3.wav"
+      ],
+      "Translation": [
+         "aguja"
+      ]
+   },
+   "squirrel": {
+      "Example": "For years the old lady had been squirrelling her money in shoeboxes and drawers.",
+      "Date": "2017-01-03 01:32:00.511496",
+      "Definition": "vtr - figurative (hide, put away: money, etc.)",
+      "Word": "squirrel",
+      "Sound": [
+         "content/squirrel_1.wav",
+         "content/squirrel_2.wav",
+         "content/squirrel_3.wav"
+      ],
+      "Translation": [
+         "guardar",
+         "esconder"
+      ]
+   },
+   "by_2": {
+      "Example": "We always walk by the post office on the way to work.",
+      "Date": "2017-01-21 01:29:27.046383",
+      "Definition": "prep - (close: past)",
+      "Word": "by",
+      "Sound": [
+         "content/by_1.wav",
+         "content/by_2.wav",
+         "content/by_3.wav"
+      ],
+      "Translation": [
+         "por",
+         "por delante de"
+      ]
+   },
+   "syllabus": {
+      "Example": "The lecturer gave all the students a copy of the syllabus for the semester.",
+      "Date": "2017-04-15 17:17:56.541335",
+      "Definition": "n. course outline",
+      "Word": "syllabus",
+      "Sound": [
+         "content/syllabus_1.wav",
+         "content/syllabus_2.wav",
+         "content/syllabus_3.wav"
+      ],
+      "Translation": [
+         "plan",
+         "programa"
+      ]
+   },
+   "wild": {
+      "Example": "Tigers are wild animals.",
+      "Date": "2017-01-03 01:34:44.877851",
+      "Definition": "adj - (animal: untamed)",
+      "Word": "wild",
+      "Sound": [
+         "content/wild_1.wav",
+         "content/wild_2.wav",
+         "content/wild_3.wav"
+      ],
+      "Translation": [
+         "salvaje"
+      ]
+   },
+   "regard as": {
+      "Example": "He regarded him as a hero.",
+      "Date": "2016-12-31 19:01:30.951778",
+      "Definition": "vtr + prep - (look upon)",
+      "Word": "regard as",
+      "Sound": [
+         "content/regard as_1.wav",
+         "content/regard as_2.wav"
+      ],
+      "Translation": [
+         "considerar"
+      ]
+   },
+   "stain": {
+      "Example": "a pungent mucus stains the potsherds",
+      "Date": "2017-01-03 00:34:45.119184",
+      "Definition": "n - (on clothing, etc.)",
+      "Word": "stain",
+      "Sound": [
+         "content/stain_1.wav",
+         "content/stain_2.wav",
+         "content/stain_3.wav"
+      ],
+      "Translation": [
+         "mancha"
+      ]
+   },
+   "as_6": {
+      "Example": "I made you some coffee, as you don't like tea.",
+      "Date": "2017-01-21 01:29:26.296055",
+      "Definition": "conj - (since, because)",
+      "Word": "as",
+      "Sound": [
+         "content/as_1.wav",
+         "content/as_2.wav",
+         "content/as_3.wav"
+      ],
+      "Translation": [
+         "porque"
+      ]
+   },
+   "torn": {
+      "Example": "Some of her seams are torn",
+      "Date": "2017-01-07 21:59:20.263182",
+      "Definition": "adj - (with a tear or tears)",
+      "Word": "torn",
+      "Sound": [
+         "content/torn_1.wav",
+         "content/torn_2.wav",
+         "content/torn_3.wav"
+      ],
+      "Translation": [
+         "rasgado",
+         "desgarrado",
+         "roto"
+      ]
+   },
+   "armored": {
+      "Example": "The military sent in tanks and armored troops.",
+      "Date": "2016-12-25 19:02:26.360159",
+      "Definition": "adj - (protected by armour)",
+      "Word": "armored",
+      "Sound": [
+         "content/armored_1.wav",
+         "content/armored_2.wav",
+         "content/armored_3.wav"
+      ],
+      "Translation": [
+         "blindado"
+      ]
+   },
+   "by_4": {
+      "Example": "Should we go by car or by taxi?",
+      "Date": "2017-01-21 01:29:27.046383",
+      "Definition": "prep - (via: using the means of)",
+      "Word": "by",
+      "Sound": [
+         "content/by_1.wav",
+         "content/by_2.wav",
+         "content/by_3.wav"
+      ],
+      "Translation": [
+         "en"
+      ]
+   },
+   "commit to": {
+      "Example": "I committed to working on the project for the next six months.",
+      "Date": "2017-01-03 00:26:31.269312",
+      "Definition": "vi - (promise)",
+      "Word": "commit to",
+      "Sound": [
+         "content/commit to_1.wav",
+         "content/commit to_2.wav",
+         "content/commit to_3.wav"
+      ],
+      "Translation": [
+         "comprometerse",
+         "prometer"
+      ]
+   },
+   "at": {
+      "Example": "He's at home right now.",
+      "Date": "2016-12-25 18:54:18.444357",
+      "Definition": "prep - (location)",
+      "Word": "at",
+      "Sound": [
+         "content/at_1.wav",
+         "content/at_2.wav",
+         "content/at_3.wav"
+      ],
+      "Translation": [
+         "en"
+      ]
+   },
+   "molt": {
+      "Example": "The newly moulted lobster has a tender shell.",
+      "Date": "2016-12-26 02:57:54.915668",
+      "Definition": "vi - US (moult: shed fur, etc.)",
+      "Word": "molt",
+      "Sound": [
+         "content/molt_1.wav",
+         "content/molt_2.wav",
+         "content/molt_3.wav"
+      ],
+      "Translation": [
+         "mudar la piel"
+      ]
+   },
+   "fiber": {
+      "Example": "A diet high in fiber may help prevent colon cancer.",
+      "Date": "2016-12-26 15:21:03.378783",
+      "Definition": "n - US (dietary roughage) , US (filament)",
+      "Word": "fiber",
+      "Sound": [
+         "content/fiber_1.wav",
+         "content/fiber_2.wav",
+         "content/fiber_3.wav"
+      ],
+      "Translation": [
+         "fibra"
+      ]
+   },
+   "stuffing": {
+      "Example": "If there's stuffing in the turkey it takes longer to cook.",
+      "Date": "2017-01-07 22:01:22.096848",
+      "Definition": "n - (cookery: seasoned filling)",
+      "Word": "stuffing",
+      "Sound": [
+         "content/stuffing_1.wav",
+         "content/stuffing_2.wav",
+         "content/stuffing_3.wav"
+      ],
+      "Translation": [
+         "relleno"
+      ]
+   },
+   "seam": {
+      "Example": "some of her seams are torn",
+      "Date": "2017-01-07 21:58:24.567094",
+      "Definition": "n - (fabric: stitched join) ",
+      "Word": "seam",
+      "Sound": [
+         "content/seam_1.wav",
+         "content/seam_2.wav",
+         "content/seam_3.wav"
+      ],
+      "Translation": [
+         "costura",
+         "uni\u00f3n"
+      ]
+   },
+   "wretch": {
+      "Example": "Those wretches! - how dare they impersonate us!",
+      "Date": "2016-12-29 18:18:27.876831",
+      "Definition": "n - (despicable person)",
+      "Word": "wretch",
+      "Sound": [
+         "content/wretch_1.wav",
+         "content/wretch_2.wav",
+         "content/wretch_3.wav"
+      ],
+      "Translation": [
+         "desgraciado"
+      ]
+   },
+   "scepter": {
+      "Example": "",
+      "Date": "2016-12-28 17:19:09.224640",
+      "Definition": "n - US (ceremonial rod)",
+      "Word": "scepter",
+      "Sound": [
+         "content/scepter_1.wav",
+         "content/scepter_2.wav",
+         "content/scepter_3.wav"
+      ],
+      "Translation": [
+         "cetro"
+      ]
+   }
+}

@@ -1,0 +1,2 @@
+Put your sound files (in .wav or .mp3) of the word that you wanna add, when you added your words, the files will be move to the content folder.
+
